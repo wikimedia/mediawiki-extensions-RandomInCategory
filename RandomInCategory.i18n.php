@@ -794,6 +794,7 @@ $messages['nl'] = array(
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
  * @author Harald Khan
  * @author Jon Harald Søby
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
 	'randomincategory' => 'Tilfeldig sida frå ein kategori',
@@ -1052,7 +1053,7 @@ $messages['tg-cyrl'] = array(
 	'randomincategory-submit' => 'Бирав',
 );
 
-/** Tajik (Latin script) (tojikī)
+/** Tajik (Latin script) (Tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -1105,7 +1106,7 @@ $messages['ug-arab'] = array(
 	'randomincategory-submit' => 'كۆچۈش',
 );
 
-/** Uyghur (Latin script) (Uyghurche‎)
+/** Uyghur (Latin script) (Uyghurche)
  * @author Jose77
  */
 $messages['ug-latn'] = array(
@@ -1121,7 +1122,7 @@ $messages['uk'] = array(
 	'randomincategory-label' => 'Категорія:',
 );
 
-/** Veps (Vepsan kel')
+/** Veps (Vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
