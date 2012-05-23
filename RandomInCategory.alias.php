@@ -26,6 +26,11 @@ $specialPageAliases['bg'] = array(
 	'RandomInCategory' => array( 'Случайна_страница_в_категория' ),
 );
 
+/** Banjar (Bahasa Banjar) */
+$specialPageAliases['bjn'] = array(
+	'RandomInCategory' => array( 'Babarang_di_tumbung' ),
+);
+
 /** Bosnian (Bosanski) */
 $specialPageAliases['bs'] = array(
 	'RandomInCategory' => array( 'SlucajnoUKategoriji' ),
@@ -68,7 +73,7 @@ $specialPageAliases['frp'] = array(
 
 /** Swiss German (Alemannisch) */
 $specialPageAliases['gsw'] = array(
-	'RandomInCategory' => array( 'Zuefelligi Kategori' ),
+	'RandomInCategory' => array( 'Zuefelligi_Kategori' ),
 );
 
 /** Upper Sorbian (Hornjoserbsce) */
