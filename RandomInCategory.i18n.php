@@ -225,15 +225,16 @@ $messages['da'] = array(
 );
 
 /** German (Deutsch)
+ * @author Kghbln
  * @author Raimond Spekking
  */
 $messages['de'] = array(
 	'randomincategory' => 'Zufällige Seite in einer Kategorie',
-	'randomincategory-desc' => '[[Special:Randomincategory|Spezialseite]], um eine zufällige Seite auf einer Kategorie zu holen',
+	'randomincategory-desc' => 'Ergänzt eine [[Special:Randomincategory|Spezialseite]], mit der man eine zufällige, in einer bestimmten Kategorie vorhandene, Seite anzeigen kann',
 	'randomincategory-toolbox' => 'Zufällige Seite',
-	'randomincategory-nocategory' => 'Kategorie $1 ist nicht vorhanden oder leer',
+	'randomincategory-nocategory' => 'Kategorie $1 ist nicht vorhanden oder enthält keine Seiten',
 	'randomincategory-label' => 'Kategorie:',
-	'randomincategory-submit' => 'OK',
+	'randomincategory-submit' => 'Los',
 );
 
 /** Lower Sorbian (Dolnoserbski)
