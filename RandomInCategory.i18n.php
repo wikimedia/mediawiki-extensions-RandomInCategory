@@ -370,7 +370,7 @@ $messages['gl'] = array(
 	'randomincategory-toolbox' => 'Páxina aleatoria',
 	'randomincategory-nocategory' => 'A categoría $1 non existe ou está baleira',
 	'randomincategory-label' => 'Categoría:',
-	'randomincategory-submit' => 'Adiante',
+	'randomincategory-submit' => 'Continuar',
 );
 
 /** Ancient Greek (Ἀρχαία ἑλληνικὴ)
