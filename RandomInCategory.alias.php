@@ -21,7 +21,7 @@ $specialPageAliases['arz'] = array(
 	'RandomInCategory' => array( 'عشوائى_فى_تصنيف' ),
 );
 
-/** Bulgarian (Български) */
+/** Bulgarian (български) */
 $specialPageAliases['bg'] = array(
 	'RandomInCategory' => array( 'Случайна_страница_в_категория' ),
 );
@@ -31,7 +31,7 @@ $specialPageAliases['bjn'] = array(
 	'RandomInCategory' => array( 'Babarang_di_tumbung' ),
 );
 
-/** Bosnian (Bosanski) */
+/** Bosnian (bosanski) */
 $specialPageAliases['bs'] = array(
 	'RandomInCategory' => array( 'SlucajnoUKategoriji' ),
 );
@@ -41,12 +41,17 @@ $specialPageAliases['de'] = array(
 	'RandomInCategory' => array( 'Zufällige_Seite_in_Kategorie' ),
 );
 
+/** Zazaki (Zazaki) */
+$specialPageAliases['diq'] = array(
+	'RandomInCategory' => array( 'KategoriyaXoseri' ),
+);
+
 /** Lower Sorbian (Dolnoserbski) */
 $specialPageAliases['dsb'] = array(
 	'RandomInCategory' => array( 'Pśipadny bok w kategoriji' ),
 );
 
-/** Spanish (Español) */
+/** Spanish (español) */
 $specialPageAliases['es'] = array(
 	'RandomInCategory' => array( 'Aleatorio_en_categoría' ),
 );
@@ -56,17 +61,17 @@ $specialPageAliases['fa'] = array(
 	'RandomInCategory' => array( 'اتفاقی_در_رده' ),
 );
 
-/** Finnish (Suomi) */
+/** Finnish (suomi) */
 $specialPageAliases['fi'] = array(
 	'RandomInCategory' => array( 'Satunnainen_sivu_luokasta' ),
 );
 
-/** French (Français) */
+/** French (français) */
 $specialPageAliases['fr'] = array(
 	'RandomInCategory' => array( 'Page_au_hasard_dans_une_catégorie' ),
 );
 
-/** Franco-Provençal (Arpetan) */
+/** Franco-Provençal (arpetan) */
 $specialPageAliases['frp'] = array(
 	'RandomInCategory' => array( 'Pâge_a_l\'hasârd_dens_una_catègorie', 'PâgeALHasârdDensUnaCatègorie' ),
 );
@@ -86,7 +91,7 @@ $specialPageAliases['ht'] = array(
 	'RandomInCategory' => array( 'OazaNanKategori' ),
 );
 
-/** Interlingua (Interlingua) */
+/** Interlingua (interlingua) */
 $specialPageAliases['ia'] = array(
 	'RandomInCategory' => array( 'Aleatori_in_categoria' ),
 );
@@ -96,7 +101,7 @@ $specialPageAliases['id'] = array(
 	'RandomInCategory' => array( 'Sembarang_di_kategori', 'SembarangDiKategori' ),
 );
 
-/** Italian (Italiano) */
+/** Italian (italiano) */
 $specialPageAliases['it'] = array(
 	'RandomInCategory' => array( 'CasualeInCategoria' ),
 );
@@ -104,6 +109,11 @@ $specialPageAliases['it'] = array(
 /** Japanese (日本語) */
 $specialPageAliases['ja'] = array(
 	'RandomInCategory' => array( 'カテゴリ内おまかせ表示', 'カテゴリ中のランダムなページ' ),
+);
+
+/** Korean (한국어) */
+$specialPageAliases['ko'] = array(
+	'RandomInCategory' => array( '임의분류' ),
 );
 
 /** Colognian (Ripoarisch) */
@@ -116,7 +126,7 @@ $specialPageAliases['lb'] = array(
 	'RandomInCategory' => array( 'Zoufälleg_Säit_aus_der_Kategorie' ),
 );
 
-/** Macedonian (Македонски) */
+/** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'RandomInCategory' => array( 'СлучајнаВоКатегорија' ),
 );
@@ -126,7 +136,7 @@ $specialPageAliases['ml'] = array(
 	'RandomInCategory' => array( 'വർഗ്ഗത്തിൽനിന്ന്ക്രമരഹിതം' ),
 );
 
-/** Norwegian Bokmål (‪Norsk (bokmål)‬) */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $specialPageAliases['nb'] = array(
 	'RandomInCategory' => array( 'Tilfeldig_fra_kategori' ),
 );
@@ -141,7 +151,7 @@ $specialPageAliases['nl'] = array(
 	'RandomInCategory' => array( 'WillekeurigeUitCategorie' ),
 );
 
-/** Occitan (Occitan) */
+/** Occitan (occitan) */
 $specialPageAliases['oc'] = array(
 	'RandomInCategory' => array( 'Pagina a l\'azard dins una categoria' ),
 );
@@ -151,7 +161,7 @@ $specialPageAliases['sa'] = array(
 	'RandomInCategory' => array( 'अविशिष्टवर्ग' ),
 );
 
-/** Slovak (Slovenčina) */
+/** Slovak (slovenčina) */
 $specialPageAliases['sk'] = array(
 	'RandomInCategory' => array( 'NáhodnéVKategórii' ),
 );
