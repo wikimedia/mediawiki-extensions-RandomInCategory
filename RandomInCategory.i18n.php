@@ -99,7 +99,7 @@ $messages['arz'] = array(
 	'randomincategory-submit' => 'اذهب',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -111,14 +111,14 @@ $messages['ast'] = array(
 	'randomincategory-submit' => 'Dir',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Cekli829
  */
 $messages['az'] = array(
 	'randomincategory-label' => 'Kateqoriya:',
 );
 
-/** Belarusian (Беларуская)
+/** Belarusian (беларуская)
  * @author Тест
  */
 $messages['be'] = array(
@@ -138,7 +138,7 @@ $messages['be-tarask'] = array(
 	'randomincategory-submit' => 'Перайсьці',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
@@ -159,7 +159,7 @@ $messages['bn'] = array(
 	'randomincategory-submit' => 'যাও',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -171,7 +171,7 @@ $messages['br'] = array(
 	'randomincategory-submit' => 'Mont',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -183,7 +183,7 @@ $messages['bs'] = array(
 	'randomincategory-submit' => 'Idi',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author SMP
  */
 $messages['ca'] = array(
@@ -198,13 +198,13 @@ $messages['ch'] = array(
 	'randomincategory-submit' => 'Hånao',
 );
 
-/** Sorani (کوردی) */
+/** Sorani Kurdish (کوردی) */
 $messages['ckb'] = array(
 	'randomincategory-label' => 'پۆل:',
 	'randomincategory-submit' => 'بڕۆ',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Danny B.
  */
 $messages['cs'] = array(
@@ -216,7 +216,7 @@ $messages['cs'] = array(
 	'randomincategory-submit' => 'Jít na',
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Jon Harald Søby
  */
 $messages['da'] = array(
@@ -249,7 +249,7 @@ $messages['dsb'] = array(
 	'randomincategory-submit' => 'W pórěźe',
 );
 
-/** Ewe (Eʋegbe) */
+/** Ewe (eʋegbe) */
 $messages['ee'] = array(
 	'randomincategory-submit' => 'Yi',
 );
@@ -280,7 +280,7 @@ $messages['eo'] = array(
 	'randomincategory-submit' => 'Ek!',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Crazymadlover
  * @author Fitoschido
  * @author Imre
@@ -296,7 +296,7 @@ $messages['es'] = array(
 	'randomincategory-submit' => 'Ir',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  */
 $messages['eu'] = array(
@@ -305,7 +305,7 @@ $messages['eu'] = array(
 	'randomincategory-submit' => 'Joan',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Cimon Avaro
  * @author Crt
  * @author Mobe
@@ -320,7 +320,7 @@ $messages['fi'] = array(
 	'randomincategory-submit' => 'Siirry',
 );
 
-/** French (Français)
+/** French (français)
  * @author Cedric31
  * @author Grondin
  * @author Louperivois
@@ -334,7 +334,7 @@ $messages['fr'] = array(
 	'randomincategory-submit' => 'Lancer',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author Cedric31
  * @author ChrisPtDe
  */
@@ -451,7 +451,7 @@ $messages['hil'] = array(
 	'randomincategory-submit' => 'Lakat',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Dalibor Bosits
  */
 $messages['hr'] = array(
@@ -470,7 +470,7 @@ $messages['hsb'] = array(
 	'randomincategory-submit' => 'W porjadku',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  * @author Glanthor Reviol
  */
@@ -495,7 +495,7 @@ $messages['hy'] = array(
 	'randomincategory-submit' => 'Անցնել',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -534,14 +534,14 @@ $messages['io'] = array(
 	'randomincategory-toolbox' => 'Hazarda pagino',
 );
 
-/** Icelandic (Íslenska)
+/** Icelandic (íslenska)
  * @author S.Örvarr.S
  */
 $messages['is'] = array(
 	'randomincategory-label' => 'Flokkur:',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Darth Kule
  */
 $messages['it'] = array(
@@ -627,7 +627,7 @@ $messages['ksh'] = array(
 	'randomincategory-submit' => 'Lohß Jonn!',
 );
 
-/** Cornish (Kernowek)
+/** Cornish (kernowek)
  * @author Kw-Moon
  */
 $messages['kw'] = array(
@@ -657,7 +657,7 @@ $messages['lb'] = array(
 	'randomincategory-submit' => 'Lass',
 );
 
-/** Lumbaart (Lumbaart)
+/** lumbaart (lumbaart)
  * @author Dakrismeno
  */
 $messages['lmo'] = array(
@@ -665,7 +665,7 @@ $messages['lmo'] = array(
 	'randomincategory-nocategory' => "La categuria $1 o l'esista mia o l'è vöda",
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Homo
  */
 $messages['lt'] = array(
@@ -684,7 +684,7 @@ $messages['mhr'] = array(
 	'randomincategory-toolbox' => 'Вучыдымо (случайный) статья',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -705,7 +705,7 @@ $messages['ml'] = array(
 	'randomincategory-submit' => 'പോകൂ',
 );
 
-/** Mongolian (Монгол)
+/** Mongolian (монгол)
  * @author Chinneeb
  */
 $messages['mn'] = array(
@@ -793,7 +793,7 @@ $messages['nl'] = array(
 	'randomincategory-submit' => 'OK',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Harald Khan
  * @author Jon Harald Søby
  * @author Njardarlogar
@@ -814,7 +814,7 @@ $messages['nso'] = array(
 	'randomincategory-submit' => 'Sepela',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -841,7 +841,7 @@ $messages['pdc'] = array(
 	'randomincategory-submit' => 'OK',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Maikking
  * @author Sp5uhe
  */
@@ -876,7 +876,7 @@ $messages['ps'] = array(
 	'randomincategory-submit' => 'ورځه',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Lijealso
  * @author Malafaya
  */
@@ -889,7 +889,7 @@ $messages['pt'] = array(
 	'randomincategory-submit' => 'Ir',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
@@ -908,7 +908,7 @@ $messages['rif'] = array(
 	'randomincategory-submit' => 'Raḥ ɣa',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author KlaudiuMihaila
  */
 $messages['ro'] = array(
@@ -918,7 +918,7 @@ $messages['ro'] = array(
 	'randomincategory-label' => 'Categorie:',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -930,7 +930,7 @@ $messages['roa-tara'] = array(
 	'randomincategory-submit' => 'Veje',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -942,7 +942,7 @@ $messages['ru'] = array(
 	'randomincategory-submit' => 'Перейти',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  * @author Michawiki
  */
@@ -963,7 +963,7 @@ $messages['so'] = array(
 	'randomincategory-label' => 'Qeybta:',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Жељко Тодоровић
  * @author Михајло Анђелковић
@@ -977,7 +977,7 @@ $messages['sr-ec'] = array(
 	'randomincategory-submit' => 'Иди',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Michaello
  * @author Жељко Тодоровић
  */
@@ -1009,7 +1009,7 @@ $messages['su'] = array(
 	'randomincategory-label' => 'Kategori:',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Jon Harald Søby
  * @author M.M.S.
  * @author WikiPhoenix
@@ -1035,7 +1035,7 @@ $messages['te'] = array(
 	'randomincategory-submit' => 'వెళ్ళు',
 );
 
-/** Tetum (Tetun)
+/** Tetum (tetun)
  * @author MF-Warburg
  */
 $messages['tet'] = array(
@@ -1043,7 +1043,7 @@ $messages['tet'] = array(
 	'randomincategory-submit' => 'Bá',
 );
 
-/** Tajik (Cyrillic script) (Тоҷикӣ)
+/** Tajik (Cyrillic script) (тоҷикӣ)
  * @author Ibrahim
  */
 $messages['tg-cyrl'] = array(
@@ -1055,7 +1055,7 @@ $messages['tg-cyrl'] = array(
 	'randomincategory-submit' => 'Бирав',
 );
 
-/** Tajik (Latin script) (Tojikī)
+/** Tajik (Latin script) (tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -1115,7 +1115,7 @@ $messages['ug-latn'] = array(
 	'randomincategory-submit' => 'Köchüsh',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Prima klasy4na
  * @author Тест
  */
@@ -1158,7 +1158,7 @@ $messages['yi'] = array(
 	'randomincategory-label' => 'קאַטעגאריע:',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Gzdavidwong
  * @author Xiaomingyan
  */
@@ -1168,7 +1168,7 @@ $messages['zh-hans'] = array(
 	'randomincategory-submit' => '提交',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Gzdavidwong
  * @author Mark85296341
  * @author Oapbtommy
