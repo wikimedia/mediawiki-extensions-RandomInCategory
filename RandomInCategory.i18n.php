@@ -729,6 +729,10 @@ $messages['mr'] = array(
  * @author Aurora
  */
 $messages['ms'] = array(
+	'randomincategory' => 'Halaman rawak dalam kategori',
+	'randomincategory-desc' => '[[Special:Randomincategory|Halaman khusus]] untuk memperoleh halaman rawak dalam sesebuah kategori',
+	'randomincategory-toolbox' => 'Laman rawak',
+	'randomincategory-nocategory' => 'Kategori $1 kosong atau tidak wujud',
 	'randomincategory-label' => 'Kategori:',
 	'randomincategory-submit' => 'Pergi',
 );
