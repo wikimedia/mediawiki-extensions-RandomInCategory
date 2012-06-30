@@ -46,7 +46,7 @@ $specialPageAliases['diq'] = array(
 	'RandomInCategory' => array( 'KategoriyaXoseri' ),
 );
 
-/** Lower Sorbian (Dolnoserbski) */
+/** Lower Sorbian (dolnoserbski) */
 $specialPageAliases['dsb'] = array(
 	'RandomInCategory' => array( 'Pśipadny bok w kategoriji' ),
 );
@@ -81,7 +81,7 @@ $specialPageAliases['gsw'] = array(
 	'RandomInCategory' => array( 'Zuefelligi_Kategori' ),
 );
 
-/** Upper Sorbian (Hornjoserbsce) */
+/** Upper Sorbian (hornjoserbsce) */
 $specialPageAliases['hsb'] = array(
 	'RandomInCategory' => array( 'Připadna strona w kategoriji' ),
 );
