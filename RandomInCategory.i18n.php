@@ -125,7 +125,7 @@ $messages['be'] = array(
 	'randomincategory-label' => 'Катэгорыя:',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -237,7 +237,7 @@ $messages['de'] = array(
 	'randomincategory-submit' => 'Los',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -360,7 +360,7 @@ $messages['ga'] = array(
 	'randomincategory-label' => 'Catagóir:',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Alma
  * @author Toliño
  */
@@ -458,7 +458,7 @@ $messages['hr'] = array(
 	'randomincategory-submit' => 'Kreni',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
