@@ -627,6 +627,13 @@ $messages['ksh'] = array(
 	'randomincategory-submit' => 'Lohß Jonn!',
 );
 
+/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+ * @author George Animal
+ */
+$messages['ku-latn'] = array(
+	'randomincategory-label' => 'Kategorî:',
+);
+
 /** Cornish (kernowek)
  * @author Kw-Moon
  */
