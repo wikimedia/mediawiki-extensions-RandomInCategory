@@ -237,6 +237,13 @@ $messages['de'] = array(
 	'randomincategory-submit' => 'Los',
 );
 
+/** Zazaki (Zazaki)
+ * @author Mirzali
+ */
+$messages['diq'] = array(
+	'randomincategory-label' => 'Kategoriye:',
+);
+
 /** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
