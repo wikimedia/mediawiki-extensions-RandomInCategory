@@ -168,7 +168,7 @@ $specialPageAliases['sk'] = array(
 
 /** Tagalog (Tagalog) */
 $specialPageAliases['tl'] = array(
-	'RandomInCategory' => array( 'Alinmang kaurian' ),
+	'RandomInCategory' => array( 'Alinmang_kaurian' ),
 );
 
 /** Turkish (Türkçe) */
