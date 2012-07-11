@@ -691,7 +691,7 @@ $messages['lt'] = array(
 	'randomincategory-submit' => 'Eiti',
 );
 
-/** Eastern Mari (Олык Марий)
+/** Eastern Mari (олык марий)
  * @author Сай
  */
 $messages['mhr'] = array(
@@ -758,7 +758,7 @@ $messages['mt'] = array(
 	'randomincategory-submit' => 'Mur',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
@@ -778,9 +778,9 @@ $messages['nah'] = array(
 	'randomincategory-submit' => 'Yāuh',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Harald Khan
- * @author Jon Harald Søby
+ * @author Njardarlogar
  */
 $messages['nb'] = array(
 	'randomincategory' => 'Tilfeldig side fra en kategori',
@@ -1142,7 +1142,7 @@ $messages['uk'] = array(
 	'randomincategory-label' => 'Категорія:',
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
