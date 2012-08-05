@@ -1105,6 +1105,13 @@ $messages['tl'] = array(
 	'randomincategory-submit' => 'Gawin na',
 );
 
+/** толышә зывон (толышә зывон)
+ * @author Erdemaslancan
+ */
+$messages['tly'] = array(
+	'randomincategory-submit' => 'Давард',
+);
+
 /** Turkish (Türkçe)
  * @author Joseph
  * @author Karduelis
