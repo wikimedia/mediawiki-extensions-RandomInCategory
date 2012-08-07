@@ -238,9 +238,11 @@ $messages['de'] = array(
 );
 
 /** Zazaki (Zazaki)
+ * @author Erdemaslancan
  * @author Mirzali
  */
 $messages['diq'] = array(
+	'randomincategory-toolbox' => 'Peleya ke raştamê',
 	'randomincategory-label' => 'Kategoriye:',
 );
 
