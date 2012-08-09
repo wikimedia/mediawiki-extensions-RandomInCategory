@@ -314,6 +314,16 @@ $messages['eu'] = array(
 	'randomincategory-submit' => 'Joan',
 );
 
+/** Persian (فارسی)
+ * @author Mjbmr
+ */
+$messages['fa'] = array(
+	'randomincategory' => 'صفحهٔ تصادفی در رده',
+	'randomincategory-toolbox' => 'صفحهٔ تصادفی',
+	'randomincategory-label' => 'رده:',
+	'randomincategory-submit' => 'برو',
+);
+
 /** Finnish (suomi)
  * @author Cimon Avaro
  * @author Crt
@@ -930,12 +940,14 @@ $messages['rif'] = array(
 
 /** Romanian (română)
  * @author KlaudiuMihaila
+ * @author Stelistcristi
  */
 $messages['ro'] = array(
 	'randomincategory' => 'Pagină aleatorie în categorie',
 	'randomincategory-toolbox' => 'Pagină aleatorie',
 	'randomincategory-nocategory' => 'Categoria $1 nu există sau este goală',
 	'randomincategory-label' => 'Categorie:',
+	'randomincategory-submit' => 'Du-te',
 );
 
 /** tarandíne (tarandíne)
