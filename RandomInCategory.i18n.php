@@ -983,6 +983,15 @@ $messages['ru'] = array(
 	'randomincategory-submit' => 'Перейти',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'randomincategory-toolbox' => 'අහඹු පිටුව',
+	'randomincategory-label' => 'ප්‍රවර්ගය:',
+	'randomincategory-submit' => 'යන්න',
+);
+
 /** Slovak (slovenčina)
  * @author Helix84
  * @author Michawiki
