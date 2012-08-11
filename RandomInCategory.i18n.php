@@ -598,6 +598,15 @@ $messages['jv'] = array(
 	'randomincategory-submit' => 'Tumuju',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'randomincategory-toolbox' => 'შემთხვევითი გვერდი',
+	'randomincategory-label' => 'კატეგორია:',
+	'randomincategory-submit' => 'მიდი',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author Chhorran
  * @author Lovekhmer
