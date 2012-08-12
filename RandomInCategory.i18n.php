@@ -602,7 +602,10 @@ $messages['jv'] = array(
  * @author David1010
  */
 $messages['ka'] = array(
+	'randomincategory' => 'კატეგორიის შემთხვევითი გვერდი',
+	'randomincategory-desc' => '[[Special:Randomincategory|სპეციალური გვერდი]] კატეგორიის შემთხვევითი გვერდის მისაღებად',
 	'randomincategory-toolbox' => 'შემთხვევითი გვერდი',
+	'randomincategory-nocategory' => 'კატეგორია $1 არ არსებობს ან ცარიელია',
 	'randomincategory-label' => 'კატეგორია:',
 	'randomincategory-submit' => 'მიდი',
 );
@@ -1071,6 +1074,15 @@ $messages['sv'] = array(
 	'randomincategory-nocategory' => 'Kategorin $1 hittades inte, eller är tom',
 	'randomincategory-label' => 'Kategori:',
 	'randomincategory-submit' => 'Gå',
+);
+
+/** Tamil (தமிழ்)
+ * @author Karthi.dr
+ */
+$messages['ta'] = array(
+	'randomincategory-toolbox' => 'ஏதாவது ஒரு பக்கம்',
+	'randomincategory-label' => 'பகுப்பு:',
+	'randomincategory-submit' => 'செல்',
 );
 
 /** Telugu (తెలుగు)
