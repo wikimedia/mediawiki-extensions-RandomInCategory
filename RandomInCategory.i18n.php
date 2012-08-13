@@ -305,6 +305,15 @@ $messages['es'] = array(
 	'randomincategory-submit' => 'Ir',
 );
 
+/** Estonian (eesti)
+ * @author Avjoska
+ */
+$messages['et'] = array(
+	'randomincategory-toolbox' => 'Juhuslik lehekülg',
+	'randomincategory-label' => 'Kategooria:',
+	'randomincategory-submit' => 'Mine',
+);
+
 /** Basque (euskara)
  * @author An13sa
  */
@@ -1074,6 +1083,16 @@ $messages['sv'] = array(
 	'randomincategory-nocategory' => 'Kategorin $1 hittades inte, eller är tom',
 	'randomincategory-label' => 'Kategori:',
 	'randomincategory-submit' => 'Gå',
+);
+
+/** Swahili (Kiswahili)
+ * @author Stephenwanjau
+ */
+$messages['sw'] = array(
+	'randomincategory' => 'Ukurasa wa bahati katika jamii',
+	'randomincategory-toolbox' => 'Ukurasa wa bahati',
+	'randomincategory-label' => 'Jamii:',
+	'randomincategory-submit' => 'Enda',
 );
 
 /** Tamil (தமிழ்)
