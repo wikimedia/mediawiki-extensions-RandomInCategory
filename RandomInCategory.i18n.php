@@ -588,10 +588,10 @@ $messages['it'] = array(
  * @author 青子守歌
  */
 $messages['ja'] = array(
-	'randomincategory' => 'カテゴリ内のランダムなページ',
+	'randomincategory' => 'カテゴリ内でおまかせ表示',
 	'randomincategory-desc' => 'カテゴリ内からページを無作為抽出する[[Special:Randomincategory|特別ページ]]',
-	'randomincategory-toolbox' => '無作為ページ',
-	'randomincategory-nocategory' => 'カテゴリ $1 は存在しないか、空です',
+	'randomincategory-toolbox' => 'おまかせ表示',
+	'randomincategory-nocategory' => 'カテゴリ $1 は存在しない、または空です',
 	'randomincategory-label' => 'カテゴリ:',
 	'randomincategory-submit' => '表示',
 );
