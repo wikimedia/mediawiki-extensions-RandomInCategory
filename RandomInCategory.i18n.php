@@ -383,9 +383,11 @@ $messages['fy'] = array(
 
 /** Irish (Gaeilge)
  * @author Moilleadóir
+ * @author පසිඳු කාවින්ද
  */
 $messages['ga'] = array(
 	'randomincategory-label' => 'Catagóir:',
+	'randomincategory-submit' => 'Gabh',
 );
 
 /** Galician (galego)
@@ -1241,9 +1243,11 @@ $messages['vo'] = array(
 
 /** Yiddish (ייִדיש)
  * @author פוילישער
+ * @author පසිඳු කාවින්ද
  */
 $messages['yi'] = array(
 	'randomincategory-label' => 'קאַטעגאריע:',
+	'randomincategory-submit' => 'גיין',
 );
 
 /** Simplified Chinese (‪中文（简体）‬)
