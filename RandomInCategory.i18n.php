@@ -1214,6 +1214,16 @@ $messages['uk'] = array(
 	'randomincategory-label' => 'Категорія:',
 );
 
+/** Urdu (اردو)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ur'] = array(
+	'randomincategory' => 'زمرہ میں بےترتیب صفحہ',
+	'randomincategory-toolbox' => 'بےترتیب صفحہ',
+	'randomincategory-label' => 'زمرہ:',
+	'randomincategory-submit' => 'جانا',
+);
+
 /** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
