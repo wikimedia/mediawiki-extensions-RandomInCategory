@@ -184,9 +184,14 @@ $messages['bs'] = array(
 );
 
 /** Catalan (català)
+ * @author BroOk
  * @author SMP
  */
 $messages['ca'] = array(
+	'randomincategory' => 'Pàgina aleatòria en categoria',
+	'randomincategory-desc' => '[[Special:Randomincategory|Pàgina especial]] per obtenir una pàgina aleatòria en una categoria',
+	'randomincategory-toolbox' => 'Pàgina aleatòria',
+	'randomincategory-nocategory' => 'La categoria $1 no existeix o està buida',
 	'randomincategory-label' => 'Categoria:',
 	'randomincategory-submit' => 'Vés-hi',
 );
