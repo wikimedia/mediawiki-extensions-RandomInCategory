@@ -249,6 +249,7 @@ $messages['de'] = array(
 $messages['diq'] = array(
 	'randomincategory-toolbox' => 'Peleya ke raştamê',
 	'randomincategory-label' => 'Kategoriye:',
+	'randomincategory-submit' => 'Şo',
 );
 
 /** Lower Sorbian (dolnoserbski)
