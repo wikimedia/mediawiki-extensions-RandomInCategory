@@ -125,7 +125,7 @@ $messages['be'] = array(
 	'randomincategory-label' => 'Катэгорыя:',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -438,7 +438,7 @@ $messages['gv'] = array(
 	'randomincategory-submit' => 'Gow',
 );
 
-/** Hausa (هَوُسَ) */
+/** Hausa (Hausa) */
 $messages['ha'] = array(
 	'randomincategory-label' => 'Rukuni:',
 );
@@ -675,7 +675,7 @@ $messages['ksh'] = array(
 	'randomincategory-submit' => 'Lohß Jonn!',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  */
 $messages['ku-latn'] = array(
@@ -819,7 +819,7 @@ $messages['nah'] = array(
 	'randomincategory-submit' => 'Yāuh',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -852,7 +852,7 @@ $messages['nl'] = array(
 	'randomincategory-submit' => 'OK',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  * @author Jon Harald Søby
  * @author Njardarlogar
@@ -1034,7 +1034,7 @@ $messages['so'] = array(
 	'randomincategory-label' => 'Qeybta:',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Жељко Тодоровић
  * @author Михајло Анђелковић
@@ -1048,7 +1048,7 @@ $messages['sr-ec'] = array(
 	'randomincategory-submit' => 'Иди',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  * @author Жељко Тодоровић
  */
@@ -1267,7 +1267,7 @@ $messages['yi'] = array(
 	'randomincategory-submit' => 'גיין',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Gzdavidwong
  * @author Xiaomingyan
  */
@@ -1277,7 +1277,7 @@ $messages['zh-hans'] = array(
 	'randomincategory-submit' => '提交',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Gzdavidwong
  * @author Mark85296341
  * @author Oapbtommy
