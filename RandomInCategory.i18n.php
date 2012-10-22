@@ -38,14 +38,6 @@ $messages['qqq'] = array(
 {{Identical|Go}}',
 );
 
-/** Niuean (ko e vagahau Niuē)
- * @author Jose77
- */
-$messages['niu'] = array(
-	'randomincategory-toolbox' => 'Lau fifili',
-	'randomincategory-submit' => 'Fano',
-);
-
 /** Afrikaans (Afrikaans)
  * @author Arnobarnard
  * @author Naudefj
@@ -203,7 +195,8 @@ $messages['ch'] = array(
 	'randomincategory-submit' => 'Hånao',
 );
 
-/** Sorani Kurdish (کوردی) */
+/** Sorani Kurdish (کوردی)
+ */
 $messages['ckb'] = array(
 	'randomincategory-label' => 'پۆل:',
 	'randomincategory-submit' => 'بڕۆ',
@@ -264,7 +257,8 @@ $messages['dsb'] = array(
 	'randomincategory-submit' => 'W pórěźe',
 );
 
-/** Ewe (eʋegbe) */
+/** Ewe (eʋegbe)
+ */
 $messages['ee'] = array(
 	'randomincategory-submit' => 'Yi',
 );
@@ -438,7 +432,8 @@ $messages['gv'] = array(
 	'randomincategory-submit' => 'Gow',
 );
 
-/** Hausa (Hausa) */
+/** Hausa (Hausa)
+ */
 $messages['ha'] = array(
 	'randomincategory-label' => 'Rukuni:',
 );
@@ -837,6 +832,14 @@ $messages['nb'] = array(
  */
 $messages['ne'] = array(
 	'randomincategory-submit' => 'जाउ',
+);
+
+/** Niuean (ko e vagahau Niuē)
+ * @author Jose77
+ */
+$messages['niu'] = array(
+	'randomincategory-toolbox' => 'Lau fifili',
+	'randomincategory-submit' => 'Fano',
 );
 
 /** Dutch (Nederlands)
@@ -1288,4 +1291,3 @@ $messages['zh-hant'] = array(
 	'randomincategory-label' => '類別：',
 	'randomincategory-submit' => '進入',
 );
-
