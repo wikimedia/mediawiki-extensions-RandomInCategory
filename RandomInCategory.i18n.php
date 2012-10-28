@@ -240,7 +240,7 @@ $messages['de'] = array(
  * @author Mirzali
  */
 $messages['diq'] = array(
-	'randomincategory-toolbox' => 'Peleya ke raştamê',
+	'randomincategory-toolbox' => 'Pela raştameyiye',
 	'randomincategory-label' => 'Kategoriye:',
 	'randomincategory-submit' => 'Şo',
 );
