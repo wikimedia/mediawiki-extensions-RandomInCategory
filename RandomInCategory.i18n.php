@@ -1273,9 +1273,13 @@ $messages['yi'] = array(
 /** Simplified Chinese (中文（简体）‎)
  * @author Gzdavidwong
  * @author Xiaomingyan
+ * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
+	'randomincategory' => '分类内随机页面',
+	'randomincategory-desc' => '[[Special:Randomincategory|特殊页面]]来得到分类内的随机页面',
 	'randomincategory-toolbox' => '随机页面',
+	'randomincategory-nocategory' => '分类 $1 不存在或是空的',
 	'randomincategory-label' => '分类：',
 	'randomincategory-submit' => '提交',
 );
