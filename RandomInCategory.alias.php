@@ -161,6 +161,11 @@ $specialPageAliases['sa'] = array(
 	'RandomInCategory' => array( 'अविशिष्टवर्ग' ),
 );
 
+/** Sicilian (sicilianu) */
+$specialPageAliases['scn'] = array(
+	'RandomInCategory' => array( 'CasualeInCategoria' ),
+);
+
 /** Slovak (slovenčina) */
 $specialPageAliases['sk'] = array(
 	'RandomInCategory' => array( 'NáhodnéVKategórii' ),
