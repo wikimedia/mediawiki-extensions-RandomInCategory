@@ -1216,12 +1216,17 @@ $messages['ug-latn'] = array(
 );
 
 /** Ukrainian (українська)
+ * @author Base
  * @author Prima klasy4na
  * @author Тест
  */
 $messages['uk'] = array(
+	'randomincategory' => 'Випадкова сторінка у категорії',
+	'randomincategory-desc' => '[[Special:Randomincategory|Спеціальна сторінка]] для отримання випадкової сторінки у категорії',
 	'randomincategory-toolbox' => 'Випадкова сторінка',
+	'randomincategory-nocategory' => 'Категорія «$1» не існує, або порожня',
 	'randomincategory-label' => 'Категорія:',
+	'randomincategory-submit' => 'Перейти',
 );
 
 /** Urdu (اردو)
