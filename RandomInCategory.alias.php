@@ -141,7 +141,7 @@ $specialPageAliases['nb'] = array(
 	'RandomInCategory' => array( 'Tilfeldig_fra_kategori' ),
 );
 
-/** Nedersaksisch (Nedersaksisch) */
+/** Nedersaksies (Nedersaksies) */
 $specialPageAliases['nds-nl'] = array(
 	'RandomInCategory' => array( 'Willekeurig_in_kategorie' ),
 );
