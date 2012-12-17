@@ -21,10 +21,14 @@ $messages['en'] = array(
  * @author Jon Harald Søby
  * @author Purodha
  * @author SPQRobin
+ * @author Shirayuki
  * @author The Evil IP address
  */
 $messages['qqq'] = array(
-	'randomincategory' => 'Part of the "RandomInCategory" extension. This message is the title of the special page [[Special:Randomincategory]].',
+	'randomincategory' => 'Part of the "RandomInCategory" extension.
+
+This message is the title of the special page [[Special:Randomincategory]].
+This message is used as both the page title and in a box surrounding a textbox with a category label.',
 	'randomincategory-desc' => '{{desc}}',
 	'randomincategory-toolbox' => 'Part of the "RandomInCategory" extension. This message is shown in the toolbox, but only on category pages. It goes directly to a random page in the category you are viewing. You can also go the the special page [[MediaWiki:Randomincategory/{{SUBPAGENAME}}|Special:Randomincategory]] to enter a category name manually.
 
