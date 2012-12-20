@@ -181,6 +181,11 @@ $specialPageAliases['tr'] = array(
 	'RandomInCategory' => array( 'RastgeleKategori', 'RastgeleUlam' ),
 );
 
+/** Vietnamese (Tiếng Việt) */
+$specialPageAliases['vi'] = array(
+	'RandomInCategory' => array( 'Ngẫu_nhiên_trong_thể_loại' ),
+);
+
 /** Simplified Chinese (中文（简体）‎) */
 $specialPageAliases['zh-hans'] = array(
 	'RandomInCategory' => array( '分类内随机' ),
