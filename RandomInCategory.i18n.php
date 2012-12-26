@@ -1015,6 +1015,7 @@ $messages['ru'] = array(
  * @author පසිඳු කාවින්ද
  */
 $messages['si'] = array(
+	'randomincategory' => 'ප්‍රවර්ගයේ අහඹු පිටු',
 	'randomincategory-toolbox' => 'අහඹු පිටුව',
 	'randomincategory-label' => 'ප්‍රවර්ගය:',
 	'randomincategory-submit' => 'යන්න',
