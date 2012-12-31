@@ -375,7 +375,7 @@ $messages['frp'] = array(
 	'randomincategory-toolbox' => 'Pâge a l’hasârd',
 	'randomincategory-nocategory' => 'La catègorie « $1 » ègziste pas ou ben est voueda',
 	'randomincategory-label' => 'Catègorie :',
-	'randomincategory-submit' => 'Lanciér',
+	'randomincategory-submit' => 'Emmodar',
 );
 
 /** Western Frisian (Frysk)
