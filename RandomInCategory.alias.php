@@ -141,7 +141,7 @@ $specialPageAliases['nb'] = array(
 	'RandomInCategory' => array( 'Tilfeldig_fra_kategori' ),
 );
 
-/** Nedersaksies (Nedersaksies) */
+/** Low Saxon (Netherlands) (Nedersaksies) */
 $specialPageAliases['nds-nl'] = array(
 	'RandomInCategory' => array( 'Willekeurig_in_kategorie' ),
 );
