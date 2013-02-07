@@ -136,7 +136,7 @@ $specialPageAliases['ml'] = array(
 	'RandomInCategory' => array( 'വർഗ്ഗത്തിൽനിന്ന്ക്രമരഹിതം' ),
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎) */
+/** Norwegian Bokmål (norsk bokmål) */
 $specialPageAliases['nb'] = array(
 	'RandomInCategory' => array( 'Tilfeldig_fra_kategori' ),
 );
