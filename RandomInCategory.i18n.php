@@ -647,6 +647,18 @@ $messages['kn'] = array(
 	'randomincategory-submit' => 'ಹೋಗು',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'randomincategory' => '분류에서 임의 문서',
+	'randomincategory-desc' => '분류에서 임의 문서를 얻는 [[Special:Randomincategory|특수 문서]]',
+	'randomincategory-toolbox' => '임의 문서로',
+	'randomincategory-nocategory' => '$1 분류는 존재하지 않거나 비어 있습니다',
+	'randomincategory-label' => '분류:',
+	'randomincategory-submit' => '가기',
+);
+
 /** Krio (Krio)
  * @author Jose77
  */
