@@ -30,15 +30,13 @@ $messages['qqq'] = array(
 This message is the title of the special page [[Special:Randomincategory]].
 This message is used as both the page title and in a box surrounding a textbox with a category label.',
 	'randomincategory-desc' => '{{desc}}',
-	'randomincategory-toolbox' => 'Part of the "RandomInCategory" extension. This message is shown in the toolbox, but only on category pages. It goes directly to a random page in the category you are viewing. You can also go the the special page [[MediaWiki:Randomincategory/{{SUBPAGENAME}}|Special:Randomincategory]] to enter a category name manually.
-
+	'randomincategory-toolbox' => 'Part of the "RandomInCategory" extension. This message is shown in the toolbox, but only on category pages. It goes directly to a random page in the category you are viewing. You can also go the the special page {{msg-mw|Randomincategory}} (Special:Randomincategory) to enter a category name manually.
 {{Identical|Random page}}',
 	'randomincategory-nocategory' => 'Part of the "RandomInCategory" extension. This message is an error if you requested a random page in a category which does not exist.',
 	'randomincategory-label' => 'Part of the "RandomInCategory" extension. This message is next to the inputbox to type the name of a category.
 
 {{Identical|Category}}',
-	'randomincategory-submit' => 'Part of the "RandomInCategory" extension. This message is the text of the submit button on the special page [[MediaWiki:Randomincategory/{{SUBPAGENAME}}|Special:Randomincategory]].
-
+	'randomincategory-submit' => 'Part of the "RandomInCategory" extension. This message is the text of the submit button on the special page {{msg-mw|Randomincategory}} (Special:Randomincategory).
 {{Identical|Go}}',
 );
 
