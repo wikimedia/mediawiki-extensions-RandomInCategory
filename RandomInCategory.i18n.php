@@ -29,7 +29,7 @@ $messages['qqq'] = array(
 
 This message is the title of the special page [[Special:Randomincategory]].
 This message is used as both the page title and in a box surrounding a textbox with a category label.',
-	'randomincategory-desc' => '{{desc}}',
+	'randomincategory-desc' => '{{desc|name=Random In Category|url=http://www.mediawiki.org/wiki/Extension:Random_In_Category}}',
 	'randomincategory-toolbox' => 'Part of the "RandomInCategory" extension. This message is shown in the toolbox, but only on category pages. It goes directly to a random page in the category you are viewing. You can also go the the special page {{msg-mw|Randomincategory}} (Special:Randomincategory) to enter a category name manually.
 {{Identical|Random page}}',
 	'randomincategory-nocategory' => 'Part of the "RandomInCategory" extension. This message is an error if you requested a random page in a category which does not exist.',
