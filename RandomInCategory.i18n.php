@@ -688,6 +688,7 @@ $messages['ksh'] = array(
  * @author George Animal
  */
 $messages['ku-latn'] = array(
+	'randomincategory-toolbox' => 'Rûpeleke ketober',
 	'randomincategory-label' => 'Kategorî:',
 );
 
