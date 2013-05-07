@@ -749,6 +749,13 @@ $messages['mhr'] = array(
 	'randomincategory-toolbox' => 'Вучыдымо (случайный) статья',
 );
 
+/** Minangkabau (Baso Minangkabau)
+ * @author Iwan Novirion
+ */
+$messages['min'] = array(
+	'randomincategory-submit' => 'Tuju',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
