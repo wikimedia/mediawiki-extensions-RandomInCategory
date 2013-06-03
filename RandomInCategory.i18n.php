@@ -836,7 +836,7 @@ $messages['nah'] = array(
 	'randomincategory-submit' => 'Yāuh',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -877,7 +877,7 @@ $messages['nl'] = array(
 	'randomincategory-submit' => 'OK',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Harald Khan
  * @author Jon Harald Søby
  * @author Njardarlogar
