@@ -654,7 +654,7 @@ $messages['ko'] = array(
 	'randomincategory-toolbox' => '임의 문서로',
 	'randomincategory-nocategory' => '$1 분류는 존재하지 않거나 비어 있습니다',
 	'randomincategory-label' => '분류:',
-	'randomincategory-submit' => '가기',
+	'randomincategory-submit' => '보기',
 );
 
 /** Krio (Krio)
