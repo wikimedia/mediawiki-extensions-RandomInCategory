@@ -823,6 +823,13 @@ $messages['myv'] = array(
 	'randomincategory-submit' => 'Адя',
 );
 
+/** Mazanderani (مازِرونی)
+ * @author محک
+ */
+$messages['mzn'] = array(
+	'randomincategory-toolbox' => 'شانسی صفحه',
+);
+
 /** Nahuatl (Nāhuatl)
  * @author Fluence
  * @author Teòtlalili
