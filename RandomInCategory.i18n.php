@@ -25,10 +25,7 @@ $messages['en'] = array(
  * @author The Evil IP address
  */
 $messages['qqq'] = array(
-	'randomincategory' => '{{doc-special|RandomInCategory|unlisted=1}}
-Part of the "RandomInCategory" extension.
-
-This message is used as both the page title and in a box surrounding a textbox with a category label.',
+	'randomincategory' => '{{doc-special|RandomInCategory}}',
 	'randomincategory-desc' => '{{desc|name=Random In Category|url=http://www.mediawiki.org/wiki/Extension:Random_In_Category}}',
 	'randomincategory-toolbox' => 'Part of the "RandomInCategory" extension. This message is shown in the toolbox, but only on category pages. It goes directly to a random page in the category you are viewing. You can also go the the special page {{msg-mw|Randomincategory}} (Special:Randomincategory) to enter a category name manually.
 {{Identical|Random page}}',
@@ -61,7 +58,6 @@ $messages['am'] = array(
  * @author Meno25
  */
 $messages['ar'] = array(
-	'randomincategory' => 'صفحة عشوائية في التصنيف',
 	'randomincategory-desc' => '[[Special:Randomincategory|صفحة خاصة]] للحصول على صفحة عشوائية في تصنيف',
 	'randomincategory-toolbox' => 'صفحة عشوائية',
 	'randomincategory-nocategory' => 'التصنيف $1 غير موجود أو فارغ',
@@ -75,7 +71,6 @@ $messages['ar'] = array(
  * @author Michaelovic
  */
 $messages['arc'] = array(
-	'randomincategory' => 'ܦܐܬܐ ܚܘܚܬܐ ܒܣܕܪܐ',
 	'randomincategory-toolbox' => 'ܡܓܠܬܐ ܚܘܝܚܬܐ',
 	'randomincategory-label' => 'ܣܕܪܐ:',
 	'randomincategory-submit' => 'ܙܠ',
@@ -85,7 +80,6 @@ $messages['arc'] = array(
  * @author Meno25
  */
 $messages['arz'] = array(
-	'randomincategory' => 'صفحة عشوائية فى التصنيف',
 	'randomincategory-desc' => '[[Special:Randomincategory|صفحة خاصة]] للحصول على صفحة عشوائية فى تصنيف',
 	'randomincategory-toolbox' => 'صفحة عشوائية',
 	'randomincategory-nocategory' => 'التصنيف $1 غير موجود أو فارغ',
@@ -97,7 +91,6 @@ $messages['arz'] = array(
  * @author Xuacu
  */
 $messages['ast'] = array(
-	'randomincategory' => 'Páxina de la categoría al debalu',
 	'randomincategory-desc' => "[[Special:Randomincategory|Páxina especial]] p'abrir una páxina de la categoría al debalu",
 	'randomincategory-toolbox' => 'Páxina al debalu',
 	'randomincategory-nocategory' => 'La categoría $1 nun esiste o ta balera',
@@ -124,7 +117,6 @@ $messages['be'] = array(
  * @author Jim-by
  */
 $messages['be-tarask'] = array(
-	'randomincategory' => 'Выпадковая старонка ў катэгорыі',
 	'randomincategory-desc' => '[[Special:Randomincategory|Спэцыяльная старонка]] для атрыманьня выпадковай старонкі ў катэгорыі',
 	'randomincategory-toolbox' => 'Выпадковая старонка',
 	'randomincategory-nocategory' => 'Катэгорыя $1 не існуе альбо пустая',
@@ -136,7 +128,6 @@ $messages['be-tarask'] = array(
  * @author DCLXVI
  */
 $messages['bg'] = array(
-	'randomincategory' => 'Случайна страница в категорията',
 	'randomincategory-desc' => '[[Special:Randomincategory|Специална страница]] за извличане на случайна страница от категория',
 	'randomincategory-toolbox' => 'Случайна страница',
 	'randomincategory-nocategory' => 'Категорията $1 не съществува или е празна',
@@ -157,7 +148,6 @@ $messages['bn'] = array(
  * @author Fulup
  */
 $messages['br'] = array(
-	'randomincategory' => 'Ur bajenn dre zegouezh er rummad',
 	'randomincategory-desc' => '[[Special:Randomincategory|Pajenn dibar]] da gaout ur bajenn dre zegouezh er rummad',
 	'randomincategory-toolbox' => 'Pajenn dre zegouezh',
 	'randomincategory-nocategory' => "Goullo eo ar rummad $1 pe n'eus ket anezhañ",
@@ -169,7 +159,6 @@ $messages['br'] = array(
  * @author CERminator
  */
 $messages['bs'] = array(
-	'randomincategory' => 'Slučajna stranica u kategoriji',
 	'randomincategory-desc' => '[[Special:Randomincategory|Posebna stranica]] za prikaz slučajne stranice u kategoriji',
 	'randomincategory-toolbox' => 'Slučajna stranica',
 	'randomincategory-nocategory' => 'Kategorija $1 ne postoji ili je prazna',
@@ -182,7 +171,6 @@ $messages['bs'] = array(
  * @author SMP
  */
 $messages['ca'] = array(
-	'randomincategory' => 'Pàgina aleatòria en categoria',
 	'randomincategory-desc' => '[[Special:Randomincategory|Pàgina especial]] per obtenir una pàgina aleatòria en una categoria',
 	'randomincategory-toolbox' => 'Pàgina aleatòria',
 	'randomincategory-nocategory' => 'La categoria $1 no existeix o està buida',
@@ -208,7 +196,6 @@ $messages['ckb'] = array(
  * @author Danny B.
  */
 $messages['cs'] = array(
-	'randomincategory' => 'Náhodná stránka v kategorii',
 	'randomincategory-desc' => '[[Special:Randomincategory|Speciální stránka]] na výběr náhodné stránky z kategorie',
 	'randomincategory-toolbox' => 'Náhodná stránka',
 	'randomincategory-nocategory' => 'Kategorie „$1“ neexistuje nebo je prázdná',
@@ -229,7 +216,6 @@ $messages['da'] = array(
  * @author Raimond Spekking
  */
 $messages['de'] = array(
-	'randomincategory' => 'Zufällige Seite in einer Kategorie',
 	'randomincategory-desc' => 'Ergänzt eine [[Special:Randomincategory|Spezialseite]], mit der man eine zufällige, in einer bestimmten Kategorie vorhandene, Seite anzeigen kann',
 	'randomincategory-toolbox' => 'Zufällige Seite',
 	'randomincategory-nocategory' => 'Kategorie $1 ist nicht vorhanden oder enthält keine Seiten',
@@ -251,7 +237,6 @@ $messages['diq'] = array(
  * @author Michawiki
  */
 $messages['dsb'] = array(
-	'randomincategory' => 'Pśipadny bok w kategoriji',
 	'randomincategory-desc' => '[[Special:Randomincategory|Specialny bok]], aby se pśipórał pśipadny bok w kategoriji',
 	'randomincategory-toolbox' => 'Pśipadny bok',
 	'randomincategory-nocategory' => 'Kategorija $1 njeeksistěrujo abo jo prozna',
@@ -271,7 +256,6 @@ $messages['ee'] = array(
  * @author ZaDiak
  */
 $messages['el'] = array(
-	'randomincategory' => 'Τυχαία σελίδα στην κατηγορία',
 	'randomincategory-desc' => '[[Special:Randomincategory|Ειδική σελίδα]] για την λήψη τυχαίας σελίδας στην κατηγορία',
 	'randomincategory-toolbox' => 'Τυχαία σελίδα',
 	'randomincategory-nocategory' => 'Η κατηγορία $1 δεν υπάρχει ή είναι άδεια',
@@ -283,7 +267,6 @@ $messages['el'] = array(
  * @author Yekrats
  */
 $messages['eo'] = array(
-	'randomincategory' => 'Hazarda paĝo en kategorio',
 	'randomincategory-desc' => '[[Special:Randomincategory|Speciala paĝo]] por iri al hazarda paĝo en kategorio',
 	'randomincategory-toolbox' => 'Hazarda paĝo',
 	'randomincategory-nocategory' => 'Kategorio $1 ne ekzistas aŭ estas malplena',
@@ -299,7 +282,6 @@ $messages['eo'] = array(
  * @author Sanbec
  */
 $messages['es'] = array(
-	'randomincategory' => 'Página aleatoria en categoría',
 	'randomincategory-desc' => '[[Special:Randomincategory|página especial]] para obtener una página al azar en una categoría',
 	'randomincategory-toolbox' => 'Página aleatoria',
 	'randomincategory-nocategory' => 'La categoría $1 no existe o está vacía',
@@ -329,7 +311,6 @@ $messages['eu'] = array(
  * @author Mjbmr
  */
 $messages['fa'] = array(
-	'randomincategory' => 'صفحهٔ تصادفی در رده',
 	'randomincategory-toolbox' => 'صفحهٔ تصادفی',
 	'randomincategory-label' => 'رده:',
 	'randomincategory-submit' => 'برو',
@@ -342,7 +323,6 @@ $messages['fa'] = array(
  * @author Str4nd
  */
 $messages['fi'] = array(
-	'randomincategory' => 'Satunnainen sivu luokassa',
 	'randomincategory-desc' => '[[Special:Randomincategory|Toimintosivu]], josta saa luokkakohtaisen satunnaisen sivun.',
 	'randomincategory-toolbox' => 'Satunnainen sivu',
 	'randomincategory-nocategory' => 'Luokkaa $1 ei ole tai se on tyhjä.',
@@ -356,7 +336,6 @@ $messages['fi'] = array(
  * @author Louperivois
  */
 $messages['fr'] = array(
-	'randomincategory' => 'Page au hasard dans la catégorie',
 	'randomincategory-desc' => '[[Special:Randomincategory|Page spéciale]] pour obtenir une page au hasard dans une catégorie',
 	'randomincategory-toolbox' => 'Page au hasard',
 	'randomincategory-nocategory' => 'La catégorie « $1 » n’existe pas ou est vide',
@@ -369,7 +348,6 @@ $messages['fr'] = array(
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
-	'randomincategory' => 'Pâge a l’hasârd dens la catègorie',
 	'randomincategory-toolbox' => 'Pâge a l’hasârd',
 	'randomincategory-nocategory' => 'La catègorie « $1 » ègziste pas ou ben est voueda',
 	'randomincategory-label' => 'Catègorie :',
@@ -397,7 +375,6 @@ $messages['ga'] = array(
  * @author Toliño
  */
 $messages['gl'] = array(
-	'randomincategory' => 'Páxina aleatoria na categoría',
 	'randomincategory-desc' => '[[Special:Randomincategory|Páxina especial]] para obter unha páxina aleatoria dentro dunha categoría',
 	'randomincategory-toolbox' => 'Páxina aleatoria',
 	'randomincategory-nocategory' => 'A categoría $1 non existe ou está baleira',
@@ -417,7 +394,6 @@ $messages['grc'] = array(
  * @author Als-Holder
  */
 $messages['gsw'] = array(
-	'randomincategory' => 'Zuefelligi Syte in ere Kategorii',
 	'randomincategory-desc' => '[[Special:Randomincategory|Spezialsyte]] zum e zuefelligi Syte in ere Kategorii z hole',
 	'randomincategory-toolbox' => 'Zuefelligi Syte',
 	'randomincategory-nocategory' => 'Kategorii $1 git s nit oder isch läär',
@@ -453,7 +429,6 @@ $messages['haw'] = array(
  * @author Rotemliss
  */
 $messages['he'] = array(
-	'randomincategory' => 'דף אקראי בקטגוריה',
 	'randomincategory-desc' => '[[Special:Randomincategory|דף מיוחד]] לקבלת דף אקראי בקטגוריה',
 	'randomincategory-toolbox' => 'דף אקראי',
 	'randomincategory-nocategory' => 'הקטגוריה $1 אינה קיימת או שהיא ריקה',
@@ -465,7 +440,6 @@ $messages['he'] = array(
  * @author Kaustubh
  */
 $messages['hi'] = array(
-	'randomincategory' => 'श्रेणीमें से कोईभी पन्ना',
 	'randomincategory-toolbox' => 'अविशिष्ट पृष्ठ',
 	'randomincategory-label' => 'श्रेणी:',
 	'randomincategory-submit' => 'जायें',
@@ -476,7 +450,6 @@ $messages['hi'] = array(
  * @author Tagimata
  */
 $messages['hil'] = array(
-	'randomincategory' => 'Lagpatan nga pahina sa kategorya',
 	'randomincategory-desc' => '[[Special:Randomincategory|Special page]] para makuha ang palagpat nga pahina sa kategorya',
 	'randomincategory-toolbox' => 'Lagpat nga Panid',
 	'randomincategory-nocategory' => 'Kategorya $1 wala pa nahimuan o blangko ini',
@@ -495,7 +468,6 @@ $messages['hr'] = array(
  * @author Michawiki
  */
 $messages['hsb'] = array(
-	'randomincategory' => 'Připadna strona w kategoriji',
 	'randomincategory-desc' => '[[Special:Randomincategory|Specialna strona]], zo by připadnu stronu do kategorije přewzała',
 	'randomincategory-toolbox' => 'Připadna strona',
 	'randomincategory-nocategory' => 'Kategorija $1 njeeksistuje abo je prózdna',
@@ -508,7 +480,6 @@ $messages['hsb'] = array(
  * @author Glanthor Reviol
  */
 $messages['hu'] = array(
-	'randomincategory' => 'Véletlen lap egy kategóriából',
 	'randomincategory-desc' => '[[Special:Randomincategory|Speciális lap]] véletlen lap eléréséhez adott kategóriában',
 	'randomincategory-toolbox' => 'Véletlen lap',
 	'randomincategory-nocategory' => '$1 névvel nem létezik kategória vagy üres.',
@@ -520,7 +491,6 @@ $messages['hu'] = array(
  * @author Pandukht
  */
 $messages['hy'] = array(
-	'randomincategory' => 'Կատեգորիայի պատահական էջ',
 	'randomincategory-desc' => '[[Special:Randomincategory|Սպասարկող էջ]] կատեգորիայի պատահական էջի ստացման համար',
 	'randomincategory-toolbox' => 'Պատահական էջ',
 	'randomincategory-nocategory' => '$1 կատեգորիան գոյություն չունի կամ դատարկ է',
@@ -532,7 +502,6 @@ $messages['hy'] = array(
  * @author McDutchie
  */
 $messages['ia'] = array(
-	'randomincategory' => 'Pagina aleatori in categoria',
 	'randomincategory-desc' => '[[Special:Randomincategory|Pagina special]] pro obtener un pagina aleatori in un categoria',
 	'randomincategory-toolbox' => 'Pagina aleatori',
 	'randomincategory-nocategory' => 'Le categoria $1 non existe o es vacue',
@@ -545,7 +514,6 @@ $messages['ia'] = array(
  * @author Rex
  */
 $messages['id'] = array(
-	'randomincategory' => 'Halaman sembarang di kategori',
 	'randomincategory-desc' => '[[Special:Randomincategory|Halaman istimewa]] untuk melihat halaman sembarang di kategori',
 	'randomincategory-toolbox' => 'Halaman sembarang',
 	'randomincategory-nocategory' => 'Kategori $1 tidak ada atau kosong',
@@ -578,7 +546,6 @@ $messages['is'] = array(
  * @author Darth Kule
  */
 $messages['it'] = array(
-	'randomincategory' => 'Pagina casuale in una categoria',
 	'randomincategory-desc' => "[[Special:Randomincategory|Pagina speciale]] che dà una pagina casuale all'interno di una categoria",
 	'randomincategory-toolbox' => 'Una pagina a caso',
 	'randomincategory-nocategory' => 'La categoria $1 non esiste o è vuota',
@@ -593,7 +560,6 @@ $messages['it'] = array(
  * @author 青子守歌
  */
 $messages['ja'] = array(
-	'randomincategory' => 'カテゴリ内でおまかせ表示',
 	'randomincategory-desc' => 'カテゴリ内からページを無作為抽出する[[Special:Randomincategory|特別ページ]]',
 	'randomincategory-toolbox' => 'おまかせ表示',
 	'randomincategory-nocategory' => 'カテゴリ $1 は存在しない、または空です',
@@ -605,7 +571,6 @@ $messages['ja'] = array(
  * @author Meursault2004
  */
 $messages['jv'] = array(
-	'randomincategory' => 'Sembarang kaca ing kategori',
 	'randomincategory-toolbox' => 'Kaca sembarang',
 	'randomincategory-nocategory' => 'Kategori $1 ora ana utawa kosong',
 	'randomincategory-label' => 'Kategori:',
@@ -616,7 +581,6 @@ $messages['jv'] = array(
  * @author David1010
  */
 $messages['ka'] = array(
-	'randomincategory' => 'კატეგორიის შემთხვევითი გვერდი',
 	'randomincategory-desc' => '[[Special:Randomincategory|სპეციალური გვერდი]] კატეგორიის შემთხვევითი გვერდის მისაღებად',
 	'randomincategory-toolbox' => 'შემთხვევითი გვერდი',
 	'randomincategory-nocategory' => 'კატეგორია $1 არ არსებობს ან ცარიელია',
@@ -629,7 +593,6 @@ $messages['ka'] = array(
  * @author Lovekhmer
  */
 $messages['km'] = array(
-	'randomincategory' => 'ទំព័រព្រាវ ក្នុងចំណាត់ក្រុម',
 	'randomincategory-desc' => '[[Special:Randomincategory|ទំព័រពិសេស]] ដើម្បីទទួលបាន ទំព័រព្រាវ ក្នុងចំណាត់ក្រុម',
 	'randomincategory-toolbox' => 'ទំព័រចៃដន្យ',
 	'randomincategory-nocategory' => 'ចំណាត់ក្រុម $1 មិនមាន ឬ ទទេ',
@@ -649,7 +612,6 @@ $messages['kn'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
-	'randomincategory' => '분류에서 임의 문서',
 	'randomincategory-desc' => '분류에서 임의 문서를 얻는 [[Special:Randomincategory|특수 문서]]',
 	'randomincategory-toolbox' => '임의 문서로',
 	'randomincategory-nocategory' => '$1 분류는 존재하지 않거나 비어 있습니다',
@@ -676,7 +638,6 @@ $messages['krj'] = array(
  * @author Purodha
  */
 $messages['ksh'] = array(
-	'randomincategory' => '{{int:randompage}} en ene Saachjrupp',
 	'randomincategory-desc' => '[[Special:Randomincategory|Söndersigg]], öm en zofälleje Sigg uß ene Saachjrupp ze krijje.',
 	'randomincategory-toolbox' => '{{int:randompage}} en de Saachjrupp',
 	'randomincategory-nocategory' => 'De Saachjrupp „$1“ jidd_et nit, udder_et sin_er kei Sigge dren',
@@ -703,7 +664,6 @@ $messages['kw'] = array(
  * @author UV
  */
 $messages['la'] = array(
-	'randomincategory' => 'Pagina fortuita in categoria',
 	'randomincategory-toolbox' => 'Pagina fortuita',
 	'randomincategory-nocategory' => 'Categoria $1 aut non est aut est vacua',
 	'randomincategory-label' => 'Categoria:',
@@ -714,7 +674,6 @@ $messages['la'] = array(
  * @author Robby
  */
 $messages['lb'] = array(
-	'randomincategory' => 'Zoufälleg Säit an där Kategorie',
 	'randomincategory-desc' => '[[Special:Randomincategory|Spezialsäit]], fir eng zoufälleg Säite vun enger Kategorie ze weisen',
 	'randomincategory-toolbox' => 'Zoufälleg Säit',
 	'randomincategory-nocategory' => "D'Kategorie $1 gëtt et net oder si ass eidel",
@@ -734,7 +693,6 @@ $messages['lmo'] = array(
  * @author Homo
  */
 $messages['lt'] = array(
-	'randomincategory' => 'Atsitiktinis kategorijos puslapis',
 	'randomincategory-desc' => '[[Special:Randomincategory|Specialusis puslapis]], skirtas gauti atsitiktinį kategorijos puslapį',
 	'randomincategory-toolbox' => 'Atsitiktinis puslapis',
 	'randomincategory-nocategory' => 'Kategorija $1 neegzistuoja ar yra tuščia',
@@ -760,7 +718,6 @@ $messages['min'] = array(
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
-	'randomincategory' => 'Случајна страница во категорија',
 	'randomincategory-desc' => '[[Special:Randomincategory|Специјална страница]] за добивање на случајна страница во категорија',
 	'randomincategory-toolbox' => 'Случајна страница',
 	'randomincategory-nocategory' => 'Категоријата $1 не постои или е празна',
@@ -788,7 +745,6 @@ $messages['mn'] = array(
  * @author Kaustubh
  */
 $messages['mr'] = array(
-	'randomincategory' => 'वर्गातील अविशिष्ट पान',
 	'randomincategory-desc' => 'वर्गातील अविशिष्ट पान मिळविण्यासाठीचे [[Special:Randomincategory|विशेष पान]]',
 	'randomincategory-toolbox' => 'अविशिष्ट पान',
 	'randomincategory-nocategory' => '$1 वर्ग अस्तित्वात नाही किंवा रिकामा आहे',
@@ -801,7 +757,6 @@ $messages['mr'] = array(
  * @author Aurora
  */
 $messages['ms'] = array(
-	'randomincategory' => 'Halaman rawak dalam kategori',
 	'randomincategory-desc' => '[[Special:Randomincategory|Halaman khusus]] untuk memperoleh halaman rawak dalam sesebuah kategori',
 	'randomincategory-toolbox' => 'Laman rawak',
 	'randomincategory-nocategory' => 'Kategori $1 kosong atau tidak wujud',
@@ -835,7 +790,6 @@ $messages['mzn'] = array(
  * @author Teòtlalili
  */
 $messages['nah'] = array(
-	'randomincategory' => 'Sâsaìntlèn tlaìxtlapalli ìpan tlaìxmatkàtlàlilòtl',
 	'randomincategory-desc' => '[[Special:Randomincategory|nonkuâkiski tlaìxtlapalli]] tlèn ìka mànas sè saìntlèn tlaìxtlapalli ìpan tlaìxmatkàtlàlilòtl',
 	'randomincategory-toolbox' => 'Sâsaìntlèn tlaìxtlapalli',
 	'randomincategory-nocategory' => 'Tlaìxmatkàtlàlilòtl $1 ayàk nòso ìyỏka kä',
@@ -848,7 +802,6 @@ $messages['nah'] = array(
  * @author Njardarlogar
  */
 $messages['nb'] = array(
-	'randomincategory' => 'Tilfeldig side fra en kategori',
 	'randomincategory-desc' => '[[Special:Randomincategory|Spesialside]] for å få en tilfeldig side fra en kategori',
 	'randomincategory-toolbox' => 'Tilfeldig side',
 	'randomincategory-nocategory' => 'Kategorien $1 finnes ikke, eller er tom',
@@ -876,7 +829,6 @@ $messages['niu'] = array(
  * @author Siebrand
  */
 $messages['nl'] = array(
-	'randomincategory' => 'Willekeurige pagina in een categorie',
 	'randomincategory-desc' => '[[Special:Randomincategory|Speciale pagina]] om een willekeurige pagina in een categorie weer te geven',
 	'randomincategory-toolbox' => 'Willekeurige pagina',
 	'randomincategory-nocategory' => 'Categorie $1 bestaat niet of is leeg',
@@ -890,7 +842,6 @@ $messages['nl'] = array(
  * @author Njardarlogar
  */
 $messages['nn'] = array(
-	'randomincategory' => 'Tilfeldig sida frå ein kategori',
 	'randomincategory-desc' => 'Ei [[Special:Randomincategory|spesialsida]] for å få ei tilfeldig sida frå ein kategori',
 	'randomincategory-toolbox' => 'Tilfeldig side',
 	'randomincategory-nocategory' => 'Kategorien $1 finst ikkje, eller er tom',
@@ -909,7 +860,6 @@ $messages['nso'] = array(
  * @author Cedric31
  */
 $messages['oc'] = array(
-	'randomincategory' => "Pagina a l'azard dins la categoria",
 	'randomincategory-desc' => "[[Special:Randomincategory|Pagina especiala]] per obténer una pagina a l'azard dins una categoria.",
 	'randomincategory-toolbox' => "Pagina a l'azard",
 	'randomincategory-nocategory' => 'La categoria « $1 » existís pas o es voida',
@@ -937,7 +887,6 @@ $messages['pdc'] = array(
  * @author Sp5uhe
  */
 $messages['pl'] = array(
-	'randomincategory' => 'Losowa strona w kategorii',
 	'randomincategory-desc' => '[[Special:Randomincategory|Strona specjalna]] zwracająca losową stronę z kategorii',
 	'randomincategory-toolbox' => 'Losowa strona',
 	'randomincategory-nocategory' => 'Kategoria $1 nie istnieje lub jest pusta',
@@ -949,7 +898,6 @@ $messages['pl'] = array(
  * @author Dragonòt
  */
 $messages['pms'] = array(
-	'randomincategory' => 'Pàgina a cas ant na categorìa',
 	'randomincategory-desc' => '[[Special:Randomincategory|Pàgina special]] për pijé na pàgina a cas ant na categorìa',
 	'randomincategory-toolbox' => 'Na pàgina qualsëssìa',
 	'randomincategory-nocategory' => "La categorìa $1 a esist pa o a l'é veuida",
@@ -961,7 +909,6 @@ $messages['pms'] = array(
  * @author Ahmed-Najib-Biabani-Ibrahimkhel
  */
 $messages['ps'] = array(
-	'randomincategory' => 'په وېشنيزه کې ناټاکلی مخ',
 	'randomincategory-toolbox' => 'ناټاکلی مخ',
 	'randomincategory-label' => 'وېشنيزه:',
 	'randomincategory-submit' => 'ورځه',
@@ -972,7 +919,6 @@ $messages['ps'] = array(
  * @author Malafaya
  */
 $messages['pt'] = array(
-	'randomincategory' => 'Página aleatória na categoria',
 	'randomincategory-desc' => '[[Special:Randomincategory|Página especial]] para obter uma página aleatória na categoria',
 	'randomincategory-toolbox' => 'Página aleatória',
 	'randomincategory-nocategory' => 'A categoria $1 não existe ou está vazia',
@@ -984,7 +930,6 @@ $messages['pt'] = array(
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
-	'randomincategory' => 'Página aleatória na categoria',
 	'randomincategory-desc' => '[[Special:Randomincategory|Página especial]] para obter uma página aleatória na categoria',
 	'randomincategory-toolbox' => 'Página aleatória',
 	'randomincategory-nocategory' => 'A categoria $1 não existe ou está vazia',
@@ -1005,7 +950,6 @@ $messages['rif'] = array(
  * @author Stelistcristi
  */
 $messages['ro'] = array(
-	'randomincategory' => 'Pagină aleatorie din categorie',
 	'randomincategory-toolbox' => 'Pagină aleatorie',
 	'randomincategory-nocategory' => 'Categoria $1 nu există sau este goală',
 	'randomincategory-label' => 'Categorie:',
@@ -1016,7 +960,6 @@ $messages['ro'] = array(
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
-	'randomincategory' => "Pàggene a uecchije jndr'à categorije",
 	'randomincategory-desc' => "[[Special:Randomincategory|Pàgena speciale]] pe pigghià 'na pàgene a uecchije jndr'à categorije",
 	'randomincategory-toolbox' => 'Pàgene a uecchije',
 	'randomincategory-nocategory' => "'A categorije $1 non g'esiste o jè vacande",
@@ -1028,7 +971,6 @@ $messages['roa-tara'] = array(
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
-	'randomincategory' => 'Случайная страница категории',
 	'randomincategory-desc' => '[[Special:Randomincategory|Служебная страница]] для получения случайной страницы категории',
 	'randomincategory-toolbox' => 'Случайная страница',
 	'randomincategory-nocategory' => 'Категория $1 не существует или пуста',
@@ -1040,7 +982,6 @@ $messages['ru'] = array(
  * @author පසිඳු කාවින්ද
  */
 $messages['si'] = array(
-	'randomincategory' => 'ප්‍රවර්ගයේ අහඹු පිටු',
 	'randomincategory-toolbox' => 'අහඹු පිටුව',
 	'randomincategory-label' => 'ප්‍රවර්ගය:',
 	'randomincategory-submit' => 'යන්න',
@@ -1051,7 +992,6 @@ $messages['si'] = array(
  * @author Michawiki
  */
 $messages['sk'] = array(
-	'randomincategory' => 'Náhodná stránka v kategórii',
 	'randomincategory-desc' => '[[Special:Randomincategory|Špeciálna stránka]] na výber náhodnej stránky z kategórie',
 	'randomincategory-toolbox' => 'Náhodná stránka',
 	'randomincategory-nocategory' => 'Kategória $1 neexistuje alebo je prázdna',
@@ -1073,7 +1013,6 @@ $messages['so'] = array(
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
-	'randomincategory' => 'Случајна страница у категорији',
 	'randomincategory-desc' => '[[Special:Randomincategory|Посебна страница]] за преузимање случајне странице у категорији',
 	'randomincategory-toolbox' => 'Случајна страница',
 	'randomincategory-nocategory' => 'Категорија $1 не постоји или је празна',
@@ -1086,7 +1025,6 @@ $messages['sr-ec'] = array(
  * @author Жељко Тодоровић
  */
 $messages['sr-el'] = array(
-	'randomincategory' => 'Slučajna stranica u kategoriji',
 	'randomincategory-desc' => '[[Special:Randomincategory|Posebna stranica]] za preuzimanje slučajne stranice u kategoriji',
 	'randomincategory-toolbox' => 'Slučajna stranica',
 	'randomincategory-nocategory' => 'Kategorija $1 ne postoji ili je prazna',
@@ -1098,7 +1036,6 @@ $messages['sr-el'] = array(
  * @author Pyt
  */
 $messages['stq'] = array(
-	'randomincategory' => 'Toufällige Siede in ne Kategorie',
 	'randomincategory-desc' => '[[Special:Randomincategory|Spezioalsiede]], uum ne toufällige Siede ap ne Kategorie tou hoaljen',
 	'randomincategory-toolbox' => 'Toufällige Siede',
 	'randomincategory-nocategory' => 'Kategorie $1 bestoant nit of ju is loos',
@@ -1119,7 +1056,6 @@ $messages['su'] = array(
  * @author WikiPhoenix
  */
 $messages['sv'] = array(
-	'randomincategory' => 'Slumpsida i kategori',
 	'randomincategory-desc' => '[[Special:Randomincategory|Specialsida]] för att få en slumpsida från en kategori',
 	'randomincategory-toolbox' => 'Slumpsida',
 	'randomincategory-nocategory' => 'Kategorin $1 hittades inte, eller är tom',
@@ -1131,7 +1067,6 @@ $messages['sv'] = array(
  * @author Stephenwanjau
  */
 $messages['sw'] = array(
-	'randomincategory' => 'Ukurasa wa bahati katika jamii',
 	'randomincategory-toolbox' => 'Ukurasa wa bahati',
 	'randomincategory-label' => 'Jamii:',
 	'randomincategory-submit' => 'Enda',
@@ -1150,7 +1085,6 @@ $messages['ta'] = array(
  * @author Veeven
  */
 $messages['te'] = array(
-	'randomincategory' => 'వర్గంలోని యాదృచ్చిక పేజీ',
 	'randomincategory-desc' => 'ఓ వర్గంలోని యాదృచ్ఛిక పేజీని పొందడానికై [[Special:Randomincategory|ప్రత్యేక పేజీ]]',
 	'randomincategory-toolbox' => 'యాదృచ్ఛిక పేజీ',
 	'randomincategory-nocategory' => '$1 అనే వర్గం లేదు లేదా ఖాళీగా ఉంది',
@@ -1170,7 +1104,6 @@ $messages['tet'] = array(
  * @author Ibrahim
  */
 $messages['tg-cyrl'] = array(
-	'randomincategory' => 'Саҳифаи тасодуфӣ дар гурӯҳ',
 	'randomincategory-desc' => '[[Special:Randomincategory|Саҳифаи вижа]] барои гирифтани саҳифаи тасодуфӣ дар гурӯҳ',
 	'randomincategory-toolbox' => 'Саҳифаи тасодуфӣ',
 	'randomincategory-nocategory' => 'Гурӯҳи $1 вуҷуд надорад ё холӣ аст',
@@ -1182,7 +1115,6 @@ $messages['tg-cyrl'] = array(
  * @author Liangent
  */
 $messages['tg-latn'] = array(
-	'randomincategory' => 'Sahifai tasodufī dar gurūh',
 	'randomincategory-desc' => '[[Special:Randomincategory|Sahifai viƶa]] baroi giriftani sahifai tasodufī dar gurūh',
 	'randomincategory-toolbox' => 'Sahifai tasodufī',
 	'randomincategory-nocategory' => 'Gurūhi $1 vuçud nadorad jo xolī ast',
@@ -1202,7 +1134,6 @@ $messages['tk'] = array(
  * @author AnakngAraw
  */
 $messages['tl'] = array(
-	'randomincategory' => 'Alin mang pahina sa loob ng kaurian',
 	'randomincategory-desc' => '[[Special:Randomincategory|Natatanging pahina]] upang makakuha ng alin mang pahinang nasa loob ng kaurian',
 	'randomincategory-toolbox' => 'Alin mang pahina',
 	'randomincategory-nocategory' => 'Hindi umiiral o walang laman ang kauriang $1',
@@ -1223,7 +1154,6 @@ $messages['tly'] = array(
  * @author Vito Genovese
  */
 $messages['tr'] = array(
-	'randomincategory' => 'Kategoriye göre rastgele sayfa',
 	'randomincategory-desc' => 'Kategoride rasgele bir sayfa için [[Special:Randomincategory|özel sayfa]]',
 	'randomincategory-toolbox' => 'Rastgele sayfa',
 	'randomincategory-nocategory' => '$1 kategorisi mevcut değil ya da boş',
@@ -1251,7 +1181,6 @@ $messages['ug-latn'] = array(
  * @author Тест
  */
 $messages['uk'] = array(
-	'randomincategory' => 'Випадкова сторінка у категорії',
 	'randomincategory-desc' => '[[Special:Randomincategory|Спеціальна сторінка]] для отримання випадкової сторінки у категорії',
 	'randomincategory-toolbox' => 'Випадкова сторінка',
 	'randomincategory-nocategory' => 'Категорія «$1» не існує, або порожня',
@@ -1263,7 +1192,6 @@ $messages['uk'] = array(
  * @author පසිඳු කාවින්ද
  */
 $messages['ur'] = array(
-	'randomincategory' => 'زمرہ میں بےترتیب صفحہ',
 	'randomincategory-toolbox' => 'بےترتیب صفحہ',
 	'randomincategory-label' => 'زمرہ:',
 	'randomincategory-submit' => 'جانا',
@@ -1281,7 +1209,6 @@ $messages['vep'] = array(
  * @author Vinhtantran
  */
 $messages['vi'] = array(
-	'randomincategory' => 'Trang ngẫu nhiên trong thể loại',
 	'randomincategory-desc' => '[[Special:Randomincategory|Trang đặc biệt]] để xem một trang ngẫu nhiên trong thể loại',
 	'randomincategory-toolbox' => 'Trang ngẫu nhiên',
 	'randomincategory-nocategory' => 'Thể loại $1 không tồn tại hoặc đang trống',
@@ -1311,7 +1238,6 @@ $messages['yi'] = array(
  * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
-	'randomincategory' => '分类内随机页面',
 	'randomincategory-desc' => '[[Special:Randomincategory|特殊页面]]来得到分类内的随机页面',
 	'randomincategory-toolbox' => '随机页面',
 	'randomincategory-nocategory' => '分类 $1 不存在或是空的',
