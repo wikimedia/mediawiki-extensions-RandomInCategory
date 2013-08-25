@@ -29,7 +29,10 @@ $messages['qqq'] = array(
 	'randomincategory-desc' => '{{desc|name=Random In Category|url=http://www.mediawiki.org/wiki/Extension:Random_In_Category}}',
 	'randomincategory-toolbox' => 'Part of the "RandomInCategory" extension. This message is shown in the toolbox, but only on category pages. It goes directly to a random page in the category you are viewing. You can also go the the special page {{msg-mw|Randomincategory}} (Special:Randomincategory) to enter a category name manually.
 {{Identical|Random page}}',
-	'randomincategory-nocategory' => 'Part of the "RandomInCategory" extension. This message is an error if you requested a random page in a category which does not exist.',
+	'randomincategory-nocategory' => 'Part of the "RandomInCategory" extension. This message is an error if you requested a random page in a category which does not exist.
+
+Parameters:
+* $1 - category name',
 	'randomincategory-label' => 'Part of the "RandomInCategory" extension. This message is next to the inputbox to type the name of a category.
 
 {{Identical|Category}}',
@@ -526,6 +529,18 @@ $messages['id'] = array(
  */
 $messages['ig'] = array(
 	'randomincategory-submit' => 'Gá',
+);
+
+/** Iloko (Ilokano)
+ * @author Lam-ang
+ */
+$messages['ilo'] = array(
+	'randomincategory' => 'Pugto a panid iti kategoria',
+	'randomincategory-desc' => '[[Special:Randomincategory|Espesial a panid]] tapno makaala ti pugto a panid iti kategoria',
+	'randomincategory-toolbox' => 'Pugto a panid',
+	'randomincategory-nocategory' => 'Ti kategoria $1 ket awan wenno awan linaon',
+	'randomincategory-label' => 'Kategoria:',
+	'randomincategory-submit' => 'Inkan',
 );
 
 /** Ido (Ido)
