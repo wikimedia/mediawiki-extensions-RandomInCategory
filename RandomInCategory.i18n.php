@@ -311,10 +311,14 @@ $messages['eu'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Dalba
  * @author Mjbmr
  */
 $messages['fa'] = array(
+	'randomincategory' => 'صفحهٔ تصادفی در رده',
+	'randomincategory-desc' => '[[Special:Randomincategory|صفحهٔ ویژه]] برای دستیابی به یک صفحهٔ تصادفی در یک رده',
 	'randomincategory-toolbox' => 'صفحهٔ تصادفی',
+	'randomincategory-nocategory' => 'ردهٔ $1 وجود ندارد یا خالی است',
 	'randomincategory-label' => 'رده:',
 	'randomincategory-submit' => 'برو',
 );
