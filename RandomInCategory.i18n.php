@@ -190,6 +190,13 @@ $messages['ca'] = array(
 	'randomincategory-submit' => 'Vés-hi',
 );
 
+/** Chechen (нохчийн)
+ * @author Умар
+ */
+$messages['ce'] = array(
+	'randomincategory-submit' => 'Дехьа гӀо',
+);
+
 /** Chamorro (Chamoru)
  * @author Jatrobat
  */
