@@ -3,6 +3,7 @@
  * Aliases for special pages
  *
  */
+// @codingStandardsIgnoreFile
 
 $specialPageAliases = array();
 
@@ -159,11 +160,6 @@ $specialPageAliases['oc'] = array(
 /** Sanskrit (संस्कृतम्) */
 $specialPageAliases['sa'] = array(
 	'RandomPageInCategory' => array( 'अविशिष्टवर्ग' ),
-);
-
-/** Sicilian (sicilianu) */
-$specialPageAliases['scn'] = array(
-	'RandomInCategory' => array( 'CasualeInCategoria' ),
 );
 
 /** Slovak (slovenčina) */
