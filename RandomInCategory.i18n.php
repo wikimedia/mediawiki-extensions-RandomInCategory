@@ -247,12 +247,13 @@ $messages['de'] = array(
 /** Zazaki (Zazaki)
  * @author Erdemaslancan
  * @author Gorizon
+ * @author Marmase
  * @author Mirzali
  */
 $messages['diq'] = array(
 	'randomincategory-desc' => 'Kategori de qandé rastameye perer ré [[Special:Randompageincategory|pera bağsi]]',
 	'randomincategory-toolbox' => 'Pela raştameyiye',
-	'randomincategory-label' => 'Kategoriye:',
+	'randomincategory-label' => 'Kategori:',
 	'randomincategory-submit' => 'Şo',
 );
 
