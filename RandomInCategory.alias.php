@@ -104,7 +104,7 @@ $specialPageAliases['id'] = array(
 
 /** Italian (italiano) */
 $specialPageAliases['it'] = array(
-	'RandomPageInCategory' => array( 'CasualeInCategoria' ),
+	'RandomPageInCategory' => array( 'PaginaCasualeInCategoria' ),
 );
 
 /** Japanese (日本語) */
