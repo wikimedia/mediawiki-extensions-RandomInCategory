@@ -179,7 +179,7 @@ $specialPageAliases['tr'] = array(
 
 /** Vietnamese (Tiếng Việt) */
 $specialPageAliases['vi'] = array(
-	'RandomPageInCategory' => array( 'Ngẫu_nhiên_trong_thể_loại' ),
+	'RandomPageInCategory' => array( 'Trang_ngẫu_nhiên_trong_thể_loại' ),
 );
 
 /** Simplified Chinese (中文（简体）‎) */
