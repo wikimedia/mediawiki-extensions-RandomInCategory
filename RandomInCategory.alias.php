@@ -129,7 +129,7 @@ $specialPageAliases['lb'] = array(
 
 /** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
-	'RandomPageInCategory' => array( 'СлучајнаВоКатегорија' ),
+	'RandomPageInCategory' => array( 'СлучајнаСтраницаВоКатегорија' ),
 );
 
 /** Malayalam (മലയാളം) */
