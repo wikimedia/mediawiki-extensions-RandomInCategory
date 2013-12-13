@@ -54,7 +54,7 @@ $specialPageAliases['dsb'] = array(
 
 /** Spanish (español) */
 $specialPageAliases['es'] = array(
-	'RandomPageInCategory' => array( 'Aleatorio_en_categoría' ),
+	'RandomPageInCategory' => array( 'Página_aleatoria_en_categoría' ),
 );
 
 /** Persian (فارسی) */
@@ -75,6 +75,11 @@ $specialPageAliases['fr'] = array(
 /** Franco-Provençal (arpetan) */
 $specialPageAliases['frp'] = array(
 	'RandomPageInCategory' => array( 'Pâge_a_l\'hasârd_dens_una_catègorie', 'PâgeALHasârdDensUnaCatègorie' ),
+);
+
+/** Galician (galego) */
+$specialPageAliases['gl'] = array(
+	'RandomPageInCategory' => array( 'Páxina_aleatoria_na_categoría' ),
 );
 
 /** Swiss German (Alemannisch) */
