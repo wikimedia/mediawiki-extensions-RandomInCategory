@@ -14,7 +14,7 @@ $specialPageAliases['en'] = array(
 
 /** Arabic (العربية) */
 $specialPageAliases['ar'] = array(
-	'RandomPageInCategory' => array( 'عشوائي_في_تصنيف' ),
+	'RandomPageInCategory' => array( 'صفحة_عشوائية_في_تصنيف' ),
 );
 
 /** Egyptian Spoken Arabic (مصرى) */
@@ -44,7 +44,7 @@ $specialPageAliases['de'] = array(
 
 /** Zazaki (Zazaki) */
 $specialPageAliases['diq'] = array(
-	'RandomPageInCategory' => array( 'KategoriyaXoseri' ),
+	'RandomPageInCategory' => array( 'RaştameyiPeranaKategori' ),
 );
 
 /** Lower Sorbian (dolnoserbski) */
@@ -114,7 +114,7 @@ $specialPageAliases['it'] = array(
 
 /** Japanese (日本語) */
 $specialPageAliases['ja'] = array(
-	'RandomPageInCategory' => array( 'カテゴリ内おまかせ表示', 'カテゴリ中のランダムなページ' ),
+	'RandomPageInCategory' => array( 'カテゴリ内ページおまかせ表示', 'カテゴリ中のランダムなページ' ),
 );
 
 /** Korean (한국어) */
