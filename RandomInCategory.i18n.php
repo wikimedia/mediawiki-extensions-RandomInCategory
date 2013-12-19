@@ -224,11 +224,16 @@ $messages['cs'] = array(
 );
 
 /** Danish (dansk)
+ * @author Christian List
  * @author Jon Harald Søby
  */
 $messages['da'] = array(
+	'randomincategory' => 'Tilfældig side i kategori',
+	'randomincategory-desc' => '[[Special:Randompageincategory|Speciel side]] til at få en tilfældig side i kategori',
 	'randomincategory-toolbox' => 'Tilfældig side',
+	'randomincategory-nocategory' => 'Kategorien $1 findes ikke eller er tom',
 	'randomincategory-label' => 'Kategori:',
+	'randomincategory-submit' => 'Udfør',
 );
 
 /** German (Deutsch)
