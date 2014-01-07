@@ -256,7 +256,7 @@ $messages['de'] = array(
  * @author Mirzali
  */
 $messages['diq'] = array(
-	'randomincategory-desc' => 'Kategori de qandé rastameye perer ré [[Special:Randompageincategory|pera bağsi]]',
+	'randomincategory-desc' => 'Kategoriya [[Special:Randompageincategory|pela xase]] de yew pela rastameyiye bıbo',
 	'randomincategory-toolbox' => 'Pela raştameyiye',
 	'randomincategory-label' => 'Kategori:',
 	'randomincategory-submit' => 'Şo',
