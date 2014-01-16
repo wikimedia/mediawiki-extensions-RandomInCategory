@@ -258,7 +258,7 @@ $messages['de'] = array(
 $messages['diq'] = array(
 	'randomincategory-desc' => 'Kategoriya [[Special:Randompageincategory|pela xase]] de yew pela rastameyiye bıbo',
 	'randomincategory-toolbox' => 'Pela raştameyiye',
-	'randomincategory-label' => 'Kategori:',
+	'randomincategory-label' => 'Kategoriye:',
 	'randomincategory-submit' => 'Şo',
 );
 
