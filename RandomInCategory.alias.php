@@ -144,7 +144,7 @@ $specialPageAliases['ml'] = array(
 
 /** Norwegian Bokmål (norsk bokmål) */
 $specialPageAliases['nb'] = array(
-	'RandomPageInCategory' => array( 'Tilfeldig_fra_kategori' ),
+	'RandomPageInCategory' => array( 'Tilfeldig_side_fra_kategori' ),
 );
 
 /** Low Saxon (Netherlands) (Nedersaksies) */
