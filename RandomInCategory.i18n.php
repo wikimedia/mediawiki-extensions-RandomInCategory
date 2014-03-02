@@ -689,9 +689,10 @@ $messages['ko'] = array(
 
 /** Krio (Krio)
  * @author Jose77
+ * @author Protostar
  */
 $messages['kri'] = array(
-	'randomincategory-submit' => 'Go to am',
+	'randomincategory-submit' => 'Go',
 );
 
 /** Kinaray-a (Kinaray-a)
