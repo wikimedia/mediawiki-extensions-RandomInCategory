@@ -154,7 +154,7 @@ $specialPageAliases['nds-nl'] = array(
 
 /** Dutch (Nederlands) */
 $specialPageAliases['nl'] = array(
-	'RandomPageInCategory' => array( 'WillekeurigeUitCategorie' ),
+	'RandomPageInCategory' => array( 'WillekeurigePaginaUitCategorie' ),
 );
 
 /** Occitan (occitan) */
