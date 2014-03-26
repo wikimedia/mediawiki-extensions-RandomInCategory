@@ -191,3 +191,8 @@ $specialPageAliases['vi'] = array(
 $specialPageAliases['zh-hans'] = array(
 	'RandomPageInCategory' => array( '分类内随机页面' ),
 );
+
+/** Traditional Chinese (中文（繁體）‎) */
+$specialPageAliases['zh-hant'] = array(
+	'RandomPageInCategory' => array( '分類內隨機頁面' ),
+);
