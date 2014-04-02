@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Special page to direct the user to a random page in specified category
  *
@@ -17,12 +16,13 @@ $wgExtensionCredits['specialpage'][] = array(
 	'path' => __FILE__,
 	'name' => 'Random in category',
 	'author' => array( 'VasilievVV', 'Sam Reed' ),
-	'version' => '2.0',
+	'version' => '2.1.0',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:RandomInCategory',
 	'descriptionmsg' => 'randomincategory-desc',
 );
 
 $dir = dirname(__FILE__) . '/';
+$wgMessagesDirs['RandomInCategory'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['RandomInCategory'] = $dir . 'RandomInCategory.i18n.php';
 $wgExtensionMessagesFiles['RandomInCategoryAlias'] = $dir . 'RandomInCategory.alias.php';
 
