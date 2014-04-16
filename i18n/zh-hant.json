@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "Gzdavidwong",
-            "Mark85296341",
-            "Oapbtommy",
-            "Wrightbus"
-        ]
-    },
-    "randomincategory-toolbox": "隨機頁面",
-    "randomincategory-label": "類別：",
-    "randomincategory-submit": "進入"
+	"@metadata": {
+		"authors": [
+			"Gzdavidwong",
+			"Mark85296341",
+			"Oapbtommy",
+			"Wrightbus"
+		]
+	},
+	"randomincategory-toolbox": "隨機頁面",
+	"randomincategory-label": "類別：",
+	"randomincategory-submit": "進入"
 }

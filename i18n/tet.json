@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "MF-Warburg"
-        ]
-    },
-    "randomincategory-label": "Kategoria:",
-    "randomincategory-submit": "Bá"
+	"@metadata": {
+		"authors": [
+			"MF-Warburg"
+		]
+	},
+	"randomincategory-label": "Kategoria:",
+	"randomincategory-submit": "Bá"
 }

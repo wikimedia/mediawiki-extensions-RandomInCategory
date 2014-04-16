@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Hanberke"
-        ]
-    },
-    "randomincategory-label": "Kategoriýa:",
-    "randomincategory-submit": "Git"
+	"@metadata": {
+		"authors": [
+			"Hanberke"
+		]
+	},
+	"randomincategory-label": "Kategoriýa:",
+	"randomincategory-submit": "Git"
 }
