@@ -139,7 +139,7 @@ $specialPageAliases['mk'] = array(
 
 /** Malayalam (മലയാളം) */
 $specialPageAliases['ml'] = array(
-	'RandomPageInCategory' => array( 'വർഗ്ഗത്തിൽനിന്ന്ക്രമരഹിതം' ),
+	'RandomPageInCategory' => array( 'വർഗ്ഗത്തിൽനിന്ന്ക്രമരഹിതതാൾ' ),
 );
 
 /** Norwegian Bokmål (norsk bokmål) */
