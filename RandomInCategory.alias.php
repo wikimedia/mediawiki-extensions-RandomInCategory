@@ -119,7 +119,7 @@ $specialPageAliases['ja'] = array(
 
 /** Korean (한국어) */
 $specialPageAliases['ko'] = array(
-	'RandomPageInCategory' => array( 'RandomPageInCategory' ),
+	'RandomPageInCategory' => array( '임의분류에있는문서' ),
 );
 
 /** Colognian (Ripoarisch) */
