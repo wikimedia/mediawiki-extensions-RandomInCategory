@@ -89,7 +89,7 @@ $specialPageAliases['gsw'] = array(
 
 /** Upper Sorbian (hornjoserbsce) */
 $specialPageAliases['hsb'] = array(
-	'RandomPageInCategory' => array( 'Připadna strona w kategoriji' ),
+	'RandomPageInCategory' => array( 'Připadna_strona_w_kategoriji' ),
 );
 
 /** Haitian (Kreyòl ayisyen) */
