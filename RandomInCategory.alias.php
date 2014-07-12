@@ -87,6 +87,11 @@ $specialPageAliases['gsw'] = array(
 	'RandomPageInCategory' => array( 'Zuefelligi_Kategori' ),
 );
 
+/** Hebrew (עברית) */
+$specialPageAliases['he'] = array(
+	'RandomPageInCategory' => array( 'דף_אקראי_מתוך_קטגוריה' ),
+);
+
 /** Upper Sorbian (hornjoserbsce) */
 $specialPageAliases['hsb'] = array(
 	'RandomPageInCategory' => array( 'Připadna_strona_w_kategoriji' ),
