@@ -27,6 +27,11 @@ $specialPageAliases['bg'] = array(
 	'RandomPageInCategory' => array( 'Случайна_страница_в_категория' ),
 );
 
+/** Western Balochi (بلوچی رخشانی) */
+$specialPageAliases['bgn'] = array(
+	'RandomPageInCategory' => array( 'تهری_تا_ایتپاکی' ),
+);
+
 /** Banjar (Bahasa Banjar) */
 $specialPageAliases['bjn'] = array(
 	'RandomPageInCategory' => array( 'Babarang_di_tumbung' ),
