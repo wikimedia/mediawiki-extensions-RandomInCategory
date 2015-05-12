@@ -17,7 +17,7 @@ $specialPageAliases['ar'] = array(
 	'RandomPageInCategory' => array( 'صفحة_عشوائية_في_تصنيف' ),
 );
 
-/** Egyptian Spoken Arabic (مصرى) */
+/** Egyptian Arabic (مصرى) */
 $specialPageAliases['arz'] = array(
 	'RandomPageInCategory' => array( 'عشوائى_فى_تصنيف' ),
 );
@@ -77,7 +77,7 @@ $specialPageAliases['fr'] = array(
 	'RandomPageInCategory' => array( 'Page_au_hasard_dans_une_catégorie' ),
 );
 
-/** Franco-Provençal (arpetan) */
+/** Arpitan (arpetan) */
 $specialPageAliases['frp'] = array(
 	'RandomPageInCategory' => array( 'Pâge_a_l\'hasârd_dens_una_catègorie', 'PâgeALHasârdDensUnaCatègorie' ),
 );
