@@ -4,10 +4,10 @@
 			"Purodha"
 		]
 	},
-	"randomincategory": "{{int:randompage}} en ene Saachjrupp",
-	"randomincategory-desc": "[[Special:Randompageincategory|Söndersigg]], öm en zofälleje Sigg uß ene Saachjrupp ze krijje.",
-	"randomincategory-toolbox": "{{int:randompage}} en de Saachjrupp",
-	"randomincategory-nocategory": "De Saachjrupp „$1“ jidd_et nit, udder_et sin_er kei Sigge dren",
-	"randomincategory-label": "Saachjrupp:",
+	"randomincategory": "{{int:randompage}} en ene Saachjropp",
+	"randomincategory-desc": "[[Special:Randompageincategory|{{int:specialpage}}]], öm en zofälleje Sigg uß ene Saachjropp ze krijje.",
+	"randomincategory-toolbox": "{{int:randompage}} en de Saachjropp",
+	"randomincategory-nocategory": "De Saachjropp „$1“ jidd_et nit, udder_et sin_er kein Sigge dren",
+	"randomincategory-label": "Saachjropp:",
 	"randomincategory-submit": "Lohß Jonn!"
 }
