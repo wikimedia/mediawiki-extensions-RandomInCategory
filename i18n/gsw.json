@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Als-Holder"
+			"Als-Holder",
+			"J. 'mach' wust"
 		]
 	},
-	"randomincategory": "Zuefelligi Syte in ere Kategorii",
+	"randomincategory": "Zuefelligi Syte us ere Kategorii",
 	"randomincategory-desc": "[[Special:Randompageincategory|Spezialsyte]] zum e zuefelligi Syte in ere Kategorii z hole",
 	"randomincategory-toolbox": "Zuefelligi Syte",
 	"randomincategory-nocategory": "Kategorii $1 git s nit oder isch läär",
