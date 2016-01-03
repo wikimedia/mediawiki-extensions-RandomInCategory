@@ -35,7 +35,7 @@ class RandomPageInCategory extends RandomPage {
 		$title = $rnd->getRandomTitle();
 
 		if( is_null( $title ) ) {
-			$wgOut->addWikiText( wfMsg( 'randomincategory-nocategory', $par ) );
+			$wgOut->addWikiText( wfMessage( 'randomincategory-nocategory', $par )->text() );
 			$wgOut->addHTML( $this->getForm( $par ) );
 			return;
 		}
@@ -92,12 +92,12 @@ class RandomPageInCategory extends RandomPage {
 		$f =
 			Xml::openElement( 'form', array( 'method' => 'get', 'action' => $wgScript ) ) .
 				Xml::openElement( 'fieldset' ) .
-					Xml::element( 'legend', array(), wfMsg( 'randomincategory' ) ) .
+					Xml::element( 'legend', array(), wfMessage( 'randomincategory' )->text() ) .
 					Html::Hidden( 'title', $this->getPageTitle()->getPrefixedText() ) .
 					Xml::openElement( 'p' ) .
-						Xml::label( wfMsg( 'randomincategory-label' ), 'category' ) . ' ' .
+						Xml::label( wfMessage( 'randomincategory-label' )->text(), 'category' ) . ' ' .
 						Xml::input( 'category', null, $category, array( 'id' => 'category' ) ) . ' ' .
-						Xml::submitButton( wfMsg( 'randomincategory-submit' ) ) .
+						Xml::submitButton( wfMessage( 'randomincategory-submit' )->text() ) .
 					Xml::closeElement( 'p' ) .
 				Xml::closeElement( 'fieldset' ) .
 			Xml::closeElement( 'form' );
