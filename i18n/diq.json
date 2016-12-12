@@ -5,13 +5,14 @@
 			"Gorizon",
 			"Marmase",
 			"Mirzali",
-			"Kumkumuk"
+			"Kumkumuk",
+			"1917 Ekim Devrimi"
 		]
 	},
 	"randomincategory": "Gorey kategori pera tesadufi",
 	"randomincategory-desc": "Kategoriya [[Special:Randompageincategory|pela xase]] de yew pela rastameyiye bıbo",
 	"randomincategory-toolbox": "Pela raştameyiye",
 	"randomincategory-nocategory": "Kategoriya $1 çıniya yana venga",
-	"randomincategory-label": "Kategoriye:",
+	"randomincategory-label": "Kategori:",
 	"randomincategory-submit": "Şo"
 }
