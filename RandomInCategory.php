@@ -12,14 +12,14 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 	exit(1);
 }
 
-$wgExtensionCredits['specialpage'][] = array(
+$wgExtensionCredits['specialpage'][] = [
 	'path' => __FILE__,
 	'name' => 'Random in category',
-	'author' => array( 'VasilievVV', 'Sam Reed' ),
+	'author' => [ 'VasilievVV', 'Sam Reed' ],
 	'version' => '2.1.0',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:RandomInCategory',
 	'descriptionmsg' => 'randomincategory-desc',
-);
+];
 
 $dir = dirname(__FILE__) . '/';
 $wgMessagesDirs['RandomInCategory'] = __DIR__ . '/i18n';

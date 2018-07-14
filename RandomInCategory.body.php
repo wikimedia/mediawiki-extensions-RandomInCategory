@@ -63,7 +63,7 @@ class RandomPageInCategory extends RandomPage {
 		$query['tables'][] = 'categorylinks';
 
 		unset( $query['conds']['page_namespace'] );
-		array_merge( $query['conds'], array( 'page_namespace != ' . NS_CATEGORY ) );
+		array_merge( $query['conds'], [ 'page_namespace != ' . NS_CATEGORY ] );
 
 		$query['conds']['cl_to'] = $this->category;
 
@@ -71,11 +71,11 @@ class RandomPageInCategory extends RandomPage {
 		// bug 27081
 		unset( $query['options']['USE INDEX'] );
 
-		$query['join_conds'] = array(
-				'categorylinks' => array(
-					'JOIN', array( 'page_id=cl_from' )
-				)
-			);
+		$query['join_conds'] = [
+				'categorylinks' => [
+					'JOIN', [ 'page_id=cl_from' ]
+				]
+			];
 
 		return $query;
 	}
@@ -90,13 +90,13 @@ class RandomPageInCategory extends RandomPage {
 		}
 
 		$f =
-			Xml::openElement( 'form', array( 'method' => 'get', 'action' => $wgScript ) ) .
+			Xml::openElement( 'form', [ 'method' => 'get', 'action' => $wgScript ] ) .
 				Xml::openElement( 'fieldset' ) .
-					Xml::element( 'legend', array(), wfMessage( 'randomincategory' )->text() ) .
+					Xml::element( 'legend', [], wfMessage( 'randomincategory' )->text() ) .
 					Html::Hidden( 'title', $this->getPageTitle()->getPrefixedText() ) .
 					Xml::openElement( 'p' ) .
 						Xml::label( wfMessage( 'randomincategory-label' )->text(), 'category' ) . ' ' .
-						Xml::input( 'category', null, $category, array( 'id' => 'category' ) ) . ' ' .
+						Xml::input( 'category', null, $category, [ 'id' => 'category' ] ) . ' ' .
 						Xml::submitButton( wfMessage( 'randomincategory-submit' )->text() ) .
 					Xml::closeElement( 'p' ) .
 				Xml::closeElement( 'fieldset' ) .
