@@ -5,7 +5,7 @@
  * @file
  * @ingroup Extensions
  * @author VasilievVV <vasilvv@gmail.com>, based on SpecialRandompage.php code
- * @license GNU General Public Licence 2.0 or later
+ * @license GPL-2.0-or-later
  */
 
 if ( !defined( 'MEDIAWIKI' ) ) {
