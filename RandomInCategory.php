@@ -21,7 +21,7 @@ $wgExtensionCredits['specialpage'][] = [
 	'descriptionmsg' => 'randomincategory-desc',
 ];
 
-$dir = dirname(__FILE__) . '/';
+$dir = __DIR__ . '/';
 $wgMessagesDirs['RandomInCategory'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['RandomInCategoryAlias'] = $dir . 'RandomInCategory.alias.php';
 
