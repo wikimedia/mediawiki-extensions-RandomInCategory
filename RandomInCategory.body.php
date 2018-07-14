@@ -16,7 +16,7 @@ class RandomPageInCategory extends RandomPage {
 		global $wgOut, $wgRequest;
 
 		$this->setHeaders();
-		if( is_null( $par ) ) {
+		if ( is_null( $par ) ) {
 			$requestCategory = $wgRequest->getVal( 'category' );
 			if ( $requestCategory ) {
 				$par = $requestCategory;
@@ -27,14 +27,14 @@ class RandomPageInCategory extends RandomPage {
 		}
 
 		$rnd = $this;
-		if( !$rnd->setCategory( $par ) ) {
+		if ( !$rnd->setCategory( $par ) ) {
 			$wgOut->addHTML( $this->getForm( $par ) );
 			return;
 		}
 
 		$title = $rnd->getRandomTitle();
 
-		if( is_null( $title ) ) {
+		if ( is_null( $title ) ) {
 			$wgOut->addWikiText( wfMessage( 'randomincategory-nocategory', $par )->text() );
 			$wgOut->addHTML( $this->getForm( $par ) );
 			return;
@@ -43,14 +43,14 @@ class RandomPageInCategory extends RandomPage {
 		$wgOut->redirect( $title->getFullUrl() );
 	}
 
-	public function getCategory ( ) {
+	public function getCategory() {
 		return $this->category;
 	}
 
-	public function setCategory ( $cat ) {
+	public function setCategory( $cat ) {
 		$category = Title::makeTitleSafe( NS_CATEGORY, $cat );
-		//Invalid title
-		if( !$category ) {
+		// Invalid title
+		if ( !$category ) {
 			return false;
 		}
 		$this->category = $category->getDBkey();
@@ -85,7 +85,7 @@ class RandomPageInCategory extends RandomPage {
 		
 		$category = $par;
 
-		if( !$category ) {
+		if ( !$category ) {
 			$category = $wgRequest->getVal( 'category' );
 		}
 

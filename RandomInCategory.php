@@ -9,7 +9,7 @@
  */
 
 if ( !defined( 'MEDIAWIKI' ) ) {
-	exit(1);
+	exit( 1 );
 }
 
 $wgExtensionCredits['specialpage'][] = [
