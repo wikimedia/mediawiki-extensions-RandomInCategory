@@ -82,7 +82,7 @@ class RandomPageInCategory extends RandomPage {
 
 	public function getForm( $par = null ) {
 		global $wgScript, $wgRequest;
-		
+
 		$category = $par;
 
 		if ( !$category ) {
