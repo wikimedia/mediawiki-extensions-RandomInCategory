@@ -1,9 +1,11 @@
 <?php
-
 /**
  * Special page to direct the user to a random page in specified category
  *
+ * @file
  * @ingroup SpecialPage
+ * @author VasilievVV <vasilvv@gmail.com>, based on SpecialRandompage.php code
+ * @license GPL-2.0-or-later
  */
 class RandomPageInCategory extends RandomPage {
 	private $category = null;
@@ -13,34 +15,33 @@ class RandomPageInCategory extends RandomPage {
 	}
 
 	function execute( $par ) {
-		global $wgOut, $wgRequest;
+		$out = $this->getOutput();
 
 		$this->setHeaders();
 		if ( is_null( $par ) ) {
-			$requestCategory = $wgRequest->getVal( 'category' );
+			$requestCategory = $this->getRequest()->getVal( 'category' );
 			if ( $requestCategory ) {
 				$par = $requestCategory;
 			} else {
-				$wgOut->addHTML( $this->getForm() );
+				$out->addHTML( $this->getForm() );
 				return;
 			}
 		}
 
-		$rnd = $this;
-		if ( !$rnd->setCategory( $par ) ) {
-			$wgOut->addHTML( $this->getForm( $par ) );
+		if ( !$this->setCategory( $par ) ) {
+			$out->addHTML( $this->getForm( $par ) );
 			return;
 		}
 
-		$title = $rnd->getRandomTitle();
+		$title = $this->getRandomTitle();
 
 		if ( is_null( $title ) ) {
-			$wgOut->addWikiText( wfMessage( 'randomincategory-nocategory', $par )->text() );
-			$wgOut->addHTML( $this->getForm( $par ) );
+			$out->addWikiMsg( 'randomincategory-nocategory', $par );
+			$out->addHTML( $this->getForm( $par ) );
 			return;
 		}
 
-		$wgOut->redirect( $title->getFullUrl() );
+		$out->redirect( $title->getFullURL() );
 	}
 
 	public function getCategory() {
@@ -72,35 +73,30 @@ class RandomPageInCategory extends RandomPage {
 		unset( $query['options']['USE INDEX'] );
 
 		$query['join_conds'] = [
-				'categorylinks' => [
-					'JOIN', [ 'page_id=cl_from' ]
-				]
-			];
+			'categorylinks' => [
+				'JOIN', [ 'page_id=cl_from' ]
+			]
+		];
 
 		return $query;
 	}
 
 	public function getForm( $par = null ) {
-		global $wgScript, $wgRequest;
+		$category = $par ?? $this->getRequest()->getVal( 'category' );
 
-		$category = $par;
-
-		if ( !$category ) {
-			$category = $wgRequest->getVal( 'category' );
-		}
-
-		$f =
-			Xml::openElement( 'form', [ 'method' => 'get', 'action' => $wgScript ] ) .
+		return Xml::openElement( 'form', [
+				'method' => 'get',
+				'action' => $this->getConfig()->get( 'Script' )
+			] ) .
 				Xml::openElement( 'fieldset' ) .
-					Xml::element( 'legend', [], wfMessage( 'randomincategory' )->text() ) .
-					Html::Hidden( 'title', $this->getPageTitle()->getPrefixedText() ) .
+					Xml::element( 'legend', [], $this->msg( 'randomincategory' )->text() ) .
+					Html::hidden( 'title', $this->getPageTitle()->getPrefixedText() ) .
 					Xml::openElement( 'p' ) .
-						Xml::label( wfMessage( 'randomincategory-label' )->text(), 'category' ) . ' ' .
+						Xml::label( $this->msg( 'randomincategory-label' )->text(), 'category' ) . ' ' .
 						Xml::input( 'category', null, $category, [ 'id' => 'category' ] ) . ' ' .
-						Xml::submitButton( wfMessage( 'randomincategory-submit' )->text() ) .
+						Xml::submitButton( $this->msg( 'randomincategory-submit' )->text() ) .
 					Xml::closeElement( 'p' ) .
 				Xml::closeElement( 'fieldset' ) .
 			Xml::closeElement( 'form' );
-		return $f;
 	}
 }

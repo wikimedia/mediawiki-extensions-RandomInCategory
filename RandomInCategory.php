@@ -8,22 +8,16 @@
  * @license GPL-2.0-or-later
  */
 
-if ( !defined( 'MEDIAWIKI' ) ) {
-	exit( 1 );
+if ( function_exists( 'wfLoadExtension' ) ) {
+	wfLoadExtension( 'RandomInCategory' );
+	// Keep i18n globals so mergeMessageFileList.php doesn't break
+	$wgMessagesDirs['RandomInCategory'] = __DIR__ . '/i18n';
+	wfWarn(
+		'Deprecated PHP entry point used for RandomInCategory extension. Please use ' .
+		'wfLoadExtension instead, see https://www.mediawiki.org/wiki/Extension_registration for more ' .
+		'details.'
+	);
+	return;
+} else {
+	die( 'This version of the RandomInCategory extension requires MediaWiki 1.25+' );
 }
-
-$wgExtensionCredits['specialpage'][] = [
-	'path' => __FILE__,
-	'name' => 'Random in category',
-	'author' => [ 'VasilievVV', 'Sam Reed' ],
-	'version' => '2.1.0',
-	'url' => 'https://www.mediawiki.org/wiki/Extension:RandomInCategory',
-	'descriptionmsg' => 'randomincategory-desc',
-];
-
-$dir = __DIR__ . '/';
-$wgMessagesDirs['RandomInCategory'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['RandomInCategoryAlias'] = $dir . 'RandomInCategory.alias.php';
-
-$wgSpecialPages['RandomPageInCategory'] = 'RandomPageInCategory';
-$wgAutoloadClasses['RandomPageInCategory'] = $dir . 'RandomInCategory.body.php';
