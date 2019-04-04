@@ -21,7 +21,7 @@
 		"RandomInCategoryAlias": "RandomInCategory.alias.php"
 	},
 	"AutoloadClasses": {
-		"RandomPageInCategory": "RandomInCategory.body.php"
+		"RandomPageInCategory": "src/RandomPageInCategory.php"
 	},
 	"manifest_version": 1
 }
