@@ -181,6 +181,16 @@ $specialPageAliases['sk'] = [
 	'RandomPageInCategory' => [ 'NáhodnéVKategórii' ],
 ];
 
+/** Serbian Cyrillic (српски (ћирилица)) */
+$specialPageAliases['sr-ec'] = [
+	'RandomPageInCategory' => [ 'Насумична_страница_у_категорији' ],
+];
+
+/** Serbian Latin (srpski (latinica)) */
+$specialPageAliases['sr-el'] = [
+	'RandomPageInCategory' => [ 'Nasumična_stranica_u_kategoriji' ],
+];
+
 /** Tagalog (Tagalog) */
 $specialPageAliases['tl'] = [
 	'RandomPageInCategory' => [ 'Alinmang_kaurian' ],
