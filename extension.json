@@ -10,7 +10,7 @@
 	"descriptionmsg": "randomincategory-desc",
 	"type": "specialpage",
 	"requires": {
-		"MediaWiki": ">= 1.31.0"
+		"MediaWiki": ">= 1.37.0"
 	},
 	"SpecialPages": {
 		"RandomPageInCategory": "RandomPageInCategory"
