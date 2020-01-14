@@ -18,7 +18,7 @@ class RandomPageInCategory extends RandomPage {
 		$out = $this->getOutput();
 
 		$this->setHeaders();
-		if ( is_null( $par ) ) {
+		if ( $par === null ) {
 			$requestCategory = $this->getRequest()->getVal( 'category' );
 			if ( $requestCategory ) {
 				$par = $requestCategory;
@@ -35,7 +35,7 @@ class RandomPageInCategory extends RandomPage {
 
 		$title = $this->getRandomTitle();
 
-		if ( is_null( $title ) ) {
+		if ( $title === null ) {
 			$out->addWikiMsg( 'randomincategory-nocategory', $par );
 			$out->addHTML( $this->getForm( $par ) );
 			return;
