@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"randomincategory-label": "پۆل:",
 	"randomincategory-submit": "بڕۆ"
 }
