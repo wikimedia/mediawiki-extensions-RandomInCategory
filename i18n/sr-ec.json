@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"BadDog",
 			"Rancher",
 			"Жељко Тодоровић",
 			"Михајло Анђелковић"
 		]
 	},
-	"randomincategory": "Случајна страница у категорији",
+	"randomincategory": "Насумична страница у категорији",
 	"randomincategory-desc": "[[Special:Randompageincategory|Посебна страница]] за преузимање случајне странице у категорији",
 	"randomincategory-toolbox": "Случајна страница",
 	"randomincategory-nocategory": "Категорија $1 не постоји или је празна",
