@@ -10,8 +10,9 @@
 class RandomPageInCategory extends RandomPage {
 	private $category = null;
 
-	public function __construct( $name = 'RandomInCategory' ) {
-		parent::__construct( $name );
+	public function __construct() {
+		parent::__construct();
+		$this->mName = 'RandomInCategory';
 	}
 
 	public function execute( $par ) {
