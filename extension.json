@@ -9,6 +9,9 @@
 	"url": "https://www.mediawiki.org/wiki/Extension:Random_In_Category",
 	"descriptionmsg": "randomincategory-desc",
 	"type": "specialpage",
+	"requires": {
+		"MediaWiki": ">= 1.31.0"
+	},
 	"SpecialPages": {
 		"RandomPageInCategory": "RandomPageInCategory"
 	},
