@@ -206,12 +206,12 @@ $specialPageAliases['vi'] = [
 	'RandomPageInCategory' => [ 'Trang_ngẫu_nhiên_trong_thể_loại' ],
 ];
 
-/** Simplified Chinese (中文（简体）‎) */
+/** Simplified Chinese (中文（简体）) */
 $specialPageAliases['zh-hans'] = [
 	'RandomPageInCategory' => [ '分类内随机页面' ],
 ];
 
-/** Traditional Chinese (中文（繁體）‎) */
+/** Traditional Chinese (中文（繁體）) */
 $specialPageAliases['zh-hant'] = [
 	'RandomPageInCategory' => [ '分類內隨機頁面' ],
 ];
