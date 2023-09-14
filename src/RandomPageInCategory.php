@@ -7,11 +7,23 @@
  * @author VasilievVV <vasilvv@gmail.com>, based on SpecialRandomPage.php code
  * @license GPL-2.0-or-later
  */
+use Wikimedia\Rdbms\IConnectionProvider;
+
 class RandomPageInCategory extends SpecialRandomPage {
 	private $category = null;
 
-	public function __construct() {
-		parent::__construct();
+	/**
+	 * @param IConnectionProvider $dbProvider
+	 * @param NamespaceInfo $nsInfo
+	 */
+	public function __construct(
+		IConnectionProvider $dbProvider,
+		NamespaceInfo $nsInfo
+	) {
+		parent::__construct(
+			$dbProvider,
+			$nsInfo
+		);
 		$this->mName = 'RandomInCategory';
 	}
 

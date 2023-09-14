@@ -10,10 +10,16 @@
 	"descriptionmsg": "randomincategory-desc",
 	"type": "specialpage",
 	"requires": {
-		"MediaWiki": ">= 1.37.0"
+		"MediaWiki": ">= 1.40"
 	},
 	"SpecialPages": {
-		"RandomPageInCategory": "RandomPageInCategory"
+		"RandomPageInCategory": {
+			"class": "RandomPageInCategory",
+			"services": [
+				"DBLoadBalancerFactory",
+				"NamespaceInfo"
+			]
+		}
 	},
 	"MessagesDirs": {
 		"RandomInCategory": [
