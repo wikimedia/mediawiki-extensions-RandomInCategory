@@ -4,10 +4,10 @@
  *
  * @file
  * @ingroup SpecialPage
- * @author VasilievVV <vasilvv@gmail.com>, based on SpecialRandompage.php code
+ * @author VasilievVV <vasilvv@gmail.com>, based on SpecialRandomPage.php code
  * @license GPL-2.0-or-later
  */
-class RandomPageInCategory extends RandomPage {
+class RandomPageInCategory extends SpecialRandomPage {
 	private $category = null;
 
 	public function __construct() {
