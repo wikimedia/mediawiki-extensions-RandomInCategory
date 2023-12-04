@@ -7,6 +7,10 @@
  * @author VasilievVV <vasilvv@gmail.com>, based on SpecialRandomPage.php code
  * @license GPL-2.0-or-later
  */
+use MediaWiki\Html\Html;
+use MediaWiki\Specials\SpecialRandomPage;
+use MediaWiki\Title\NamespaceInfo;
+use MediaWiki\Title\Title;
 use Wikimedia\Rdbms\IConnectionProvider;
 
 class RandomPageInCategory extends SpecialRandomPage {
