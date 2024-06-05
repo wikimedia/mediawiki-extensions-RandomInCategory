@@ -7,7 +7,7 @@
 			"Yfdyh000"
 		]
 	},
-	"randomincategory": "分类中随机页面",
+	"randomincategory": "随机特定分类内页面",
 	"randomincategory-desc": "可获取随机的特定分类内页面的[[Special:Randompageincategory|特殊页面]]",
 	"randomincategory-toolbox": "随机页面",
 	"randomincategory-nocategory": "分类 $1 不存在或是空的",
