@@ -206,6 +206,11 @@ $specialPageAliases['vi'] = [
 	'RandomPageInCategory' => [ 'Trang_ngẫu_nhiên_trong_thể_loại' ],
 ];
 
+/** Chinese (中文) */
+$specialPageAliases['zh'] = [
+	'RandomPageInCategory' => [ 'RandomPageInCategory' ],
+];
+
 /** Simplified Chinese (中文（简体）) */
 $specialPageAliases['zh-hans'] = [
 	'RandomPageInCategory' => [ '分类内随机页面' ],
