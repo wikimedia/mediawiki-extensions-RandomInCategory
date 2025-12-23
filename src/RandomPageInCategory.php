@@ -110,8 +110,8 @@ class RandomPageInCategory extends SpecialRandomPage {
 					Html::hidden( 'title', $this->getPageTitle()->getPrefixedText() ) .
 					Xml::openElement( 'p' ) .
 						Xml::label( $this->msg( 'randomincategory-label' )->text(), 'category' ) . ' ' .
-						Xml::input( 'category', null, $category, [ 'id' => 'category' ] ) . ' ' .
-						Xml::submitButton( $this->msg( 'randomincategory-submit' )->text() ) .
+						Html::input( 'category', $category, 'text', [ 'id' => 'category' ] ) . ' ' .
+						Html::submitButton( $this->msg( 'randomincategory-submit' )->text(), [] ) .
 					Xml::closeElement( 'p' ) .
 				Xml::closeElement( 'fieldset' ) .
 			Xml::closeElement( 'form' );
