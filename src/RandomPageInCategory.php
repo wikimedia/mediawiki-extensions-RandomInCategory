@@ -101,19 +101,19 @@ class RandomPageInCategory extends SpecialRandomPage {
 	public function getForm( $par = null ) {
 		$category = $par ?? $this->getRequest()->getVal( 'category' );
 
-		return Xml::openElement( 'form', [
+		return Html::openElement( 'form', [
 				'method' => 'get',
 				'action' => $this->getConfig()->get( 'Script' )
 			] ) .
-				Xml::openElement( 'fieldset' ) .
-					Xml::element( 'legend', [], $this->msg( 'randomincategory' )->text() ) .
+				Html::openElement( 'fieldset' ) .
+					Html::element( 'legend', [], $this->msg( 'randomincategory' )->text() ) .
 					Html::hidden( 'title', $this->getPageTitle()->getPrefixedText() ) .
-					Xml::openElement( 'p' ) .
-						Xml::label( $this->msg( 'randomincategory-label' )->text(), 'category' ) . ' ' .
+					Html::openElement( 'p' ) .
+						Html::label( $this->msg( 'randomincategory-label' )->text(), 'category' ) . ' ' .
 						Html::input( 'category', $category, 'text', [ 'id' => 'category' ] ) . ' ' .
 						Html::submitButton( $this->msg( 'randomincategory-submit' )->text(), [] ) .
-					Xml::closeElement( 'p' ) .
-				Xml::closeElement( 'fieldset' ) .
-			Xml::closeElement( 'form' );
+					Html::closeElement( 'p' ) .
+				Html::closeElement( 'fieldset' ) .
+			Html::closeElement( 'form' );
 	}
 }
